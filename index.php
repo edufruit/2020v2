@@ -1,4 +1,4 @@
-mmm<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en"><head>
     <meta charset="utf-8">
     <title>Edufruit</title>
@@ -633,82 +633,72 @@ mmm<!DOCTYPE html>
 					<div class="row" style="height:69px;">
 					 
 					
+					 
 					
-						<div class="col-3 ">
+					
+						<div class="col-lg-3 col-md-3 col-sm-12 col-12 ">
 							
-						 
 						</div>
 					
+						<!---------------->
 					
-						 
-					
-					
-					
-						<div class="col-6  ">
+							<div class="col-lg-6 col-md-3 col-sm-12 col-12 ">
 							
 							
-							<div class="row" style="height:69px;">
-							
-								<div class="col-3" style=" background-color: yellow; ">
+								<div class="row" style="height:69px;">
+								
+								
+									<div class="col-3" style=" background-color: yellow; ">
+										
+										  
+									</div>
+									
+						
+									<div class="col-9" style=" background-color: white; ">
+								 
+									
+										<div class="row" style="height:69px;">
+										
+										
+											<div class="col-1" style=" background-color: yellow; ">
+										
+										 
+		 
+											</div>
+									
+											<div class="col-10 f-slight spacer fat f-box1-heading1"  >
+											  
+											  Regress
+										 
+	 
+											</div>
+									
+									
+									
+										</div>  
 									
 									 
 	 
-								</div>
-								
-								<div class="col-1" style=" background-color: yellow;  ">
-									
-									 
-	 
-								</div>
-							
-								<div class="col-8" style=" background-color: white; ">
-								
-								
-								
-								
-									<div class="row" style="height:69px;">
-									
-									
-										<div class="col-1" style=" background-color: yellow; ">
-									
-									 
-	 
-										</div>
-								
-										<div class="col-11 f-slight spacer fat " style="font-size:30px;">
-									      
-										  Regress
-									 
-	 
-										</div>
-									
-									
-									
-									</div> 
-								
-								
-								
-								
-									
-									 
-	 
-								</div>
+									</div>
 						
 								
-							</div>
+								</div><!-- subrow concluded -->
 							
-							
-							
-							
+							 
 						 
-						</div>
+							</div><!-- col concluded --
 					
-					
-						<div class="col-3  ">
-							
-						 
-						</div>
+				 
 					 
+						<!---------------->
+					
+					
+						<div class="col-lg-3 col-md-3 col-sm-12 col-12">
+							
+						</div>
+					
+						<!---------------->
+					
 					 
 					 
 					 
@@ -727,12 +717,23 @@ mmm<!DOCTYPE html>
 
 
 					$Red = '
-
+		
+							
+							';
+							
+							
+							// echo $Red; 
+							
+							
+							
+							
+					?>
+					
 							<div class="row" style="height:69px;">
 							 
 							
 							
-								<div class="col-3 ">
+								<div class="col-12  col-lg-3">
 									
 								 
 								</div>
@@ -742,7 +743,7 @@ mmm<!DOCTYPE html>
 							
 							
 							
-								<div class="col-6  ">
+								<div class="col-12 col-lg-6">
 									
 									 <div class="row" style="height:69px;">
 									
@@ -752,20 +753,29 @@ mmm<!DOCTYPE html>
 			 
 										</div>
 										
-										<div class="col-9 text-center text-white" style="background-color: red;  ">
+										<div class="col-10 text-center text-white" style="background-color: red;  ">
 											
 											 
-											<div class="f-slight spacer fat" style=" padding : 40px 10px 30px 10px;  font-size:30px;">Digital pedagogy imprint to learning is inevitable.</div>
+											<div class="f-slight spacer fat f-box1-heading2"  >Digital pedagogy imprint to learning is inevitable.</div>
 											
 											
 											
-											<div class="f-slight spacer "  style=" padding : 40px 50px 30px 50px; font-size:17px; line-height:45px;" >Faculty, staff and pupils are to extract potential in digital pedagogy. As an institution you will manifest "change radically".</div>
-											
-											
+											<div class="f-slight spacer f-box1-content " >Faculty, staff and pupils are to extract potential in digital pedagogy. As an institution you will manifest "change radically".	
+												<div class="row">
+													
+													<div style="border:1px #fff solid;" class="offset-3 col-6 col-lg-12 col-md-12 col-sm-12 ">
+														
+													 more...
+													</div>
+						  	  
+												</div> <!-- row concluded -->
+							 		
+											</div>
+									 				
 											
 										</div>
 									
-										<div class="col-1" style=" background-color: white; ">
+										<div class="col-12" style=" background-color: white; ">
 										
 										 
 										</div>
@@ -779,7 +789,7 @@ mmm<!DOCTYPE html>
 								</div>
 							
 							
-								<div class="col-3  ">
+								<div class="col-12 col-lg-3 ">
 									
 								 
 								</div>
@@ -791,17 +801,13 @@ mmm<!DOCTYPE html>
 							</div> <!-- row concluded -->
 			 
 							
-							
-							
-							';
-							
-							
-							echo $Red; 
-							
-							
-							
-							
-					?>
+					
+	 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+
+
 					
 	 
 				<!----------------------------------------------------------------->

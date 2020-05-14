@@ -1,0 +1,448 @@
+ 	
+		
+		.gappy 
+		{
+		  
+			margin-top: 71px;  /* do not remove this, if removing then add 71px to margin-bottom i.e. 145+71 = 216px;   */
+			
+			margin-bottom: 145px;
+			
+		}
+		
+		.seperator65 
+		{
+		   
+			height : 65px;
+			
+		}
+		
+		
+		.seperator71 
+		{
+		   
+			height : 71px;
+			
+		}
+		
+		
+		.seperator18
+		{
+		   
+			height : 18px;
+			
+		}
+		
+		.seperator41
+		{
+		   
+			height : 41px;
+			
+		}
+			
+		.seperator136
+		{
+		   
+			height : 136px;
+			
+		}
+		
+		.seperator122
+		{
+		   
+			height : 122px;
+			
+		}
+		
+		.seperator30
+		{
+		   
+			height : 30px ;
+			
+		}
+		
+		
+		.seperator15
+		{
+		   
+			height : 15px ;
+			
+		}
+		
+		
+		.seperator35
+		{
+		   
+			height : 35px ;
+			
+		}
+		
+		
+		.seperator145 
+		{
+		   
+			height : 145px;
+			
+		}
+		
+		.seperator64 
+		{
+		   
+			height : 64px;
+			
+		}
+		
+		.fat 
+		{
+		   
+			font-weight : bold;
+			
+		}
+		
+		.f-slight 
+		{
+		   
+			font-family : Helvetica;
+			
+		}
+		
+		
+	 	
+		.f-18h
+		{
+		   
+			font-size : 18.5px;
+			
+		}
+			
+			
+		.f-17
+		{
+		   
+			font-size : 17px;
+			
+		}
+			
+			
+			
+		/* 
+			
+		.f-menu 
+		{
+		   
+			font-size : 28px;
+			
+		}
+			
+			@media (max-width:1199.98px) {
+				
+				.f-menu 
+				{
+				   
+					font-size : 3.2vw;
+					
+				}
+					 
+					
+			} 	
+	 				*/
+			 
+	 		
+	 				
+	 	 
+		
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 		
+	 				
+	 				
+	 				
+		@media (min-width:300px) {
+			
+			
+			.f-menu  {
+
+				font-size : 7.5vw;
+
+			}
+
+
+			.burger-icon {
+
+				width : 70%;
+
+			}
+
+
+			.burger-text { 
+
+				width : 30%;
+
+			}
+
+
+
+			.f-box1-heading1 {
+
+				font-size : 7vw;
+
+			}
+
+			.f-box1-heading2 {
+
+				padding : 40px 10px 10px 10px;
+				font-size: 25px;
+			}
+
+			.f-box1-content {
+
+				 padding : 10px 20px 10px 20px;  
+				 text-overflow: ellipsis;
+
+				 font-size: 16px;
+				 line-height: 45px;
+			}
+
+		}
+			
+			
+			
+			
+			
+			
+			
+		@media (min-width:576px) {
+			.f-menu  {
+				font-size : 3vw;
+			}
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		@media (min-width:768px) {
+			.f-menu  {
+				font-size : 4vw;
+			}
+			
+			
+			.burger-icon {
+				width : 78%;
+			}
+			.burger-text {
+				width : 22%;
+			}
+			
+			
+		}
+
+		@media (min-width:992px) {
+			.f-menu  {
+				font-size : 3vw;
+			}
+			
+			
+			.burger-icon {
+				width : 82%;
+			}
+			.burger-text {
+				width : 18%;
+			}
+			
+			
+		}
+
+		@media (min-width:1200px) {
+			.f-menu  {
+				font-size : 1.5vw;
+			}
+
+			.burger-icon {
+				width : 87%;
+			}
+			.burger-text {
+				width : 13%;
+			}
+
+			.f-box1-heading1 {
+
+				font-size : 1.7vw;
+
+			}
+			.f-box1-heading2 {
+
+				padding : 40px 10px 30px 10px;
+				font-size:30px;
+			}
+		}
+		
+			
+	 				
+	 	 		
+	 	 
+		
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 		
+	 				
+	 				
+	 				
+		@media (min-width:300px) {
+			
+			.f-brand  {
+				font-size : 15vw;
+			}
+ 
+		}
+			
+		@media (min-width:576px) {
+			
+			.f-brand  {
+				font-size : 23vw;
+				 
+			}
+		}
+
+		@media (min-width:768px) {
+			
+			.f-brand  {
+					
+				font-size : 24vw;
+				padding-left : 18%;
+
+			}
+	 
+			
+			
+		}
+
+		@media (min-width:992px) {
+			
+			.f-brand  {
+				font-size : 23vw;
+				padding-left : 25%;
+
+			}
+			
+			
+		  
+			
+		}
+
+		@media (min-width:1200px) {
+			
+			.f-brand  {
+				
+				font-size : 4.39vw;
+				padding-left : 28%;
+
+				
+			}
+ 
+		}
+		
+			
+	 		
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 		
+	 				 
+	 				
+	 				
+	 				
+		@media (min-width:300px) {
+			
+			.f-brand-cap  {
+				font-size : 18vw; 
+				margin-left: 15px;
+				width: 100px;
+		 
+			}
+ 
+		}
+			
+		@media (min-width:576px) {
+			
+			.f-brand-cap  {
+				font-size : 23vw;
+			}
+		}
+
+		@media (min-width:768px) {
+			
+			.f-brand-cap  {
+				font-size : 24vw;
+			}
+	 
+			
+			
+		}
+
+		@media (min-width:992px) {
+			
+			.f-brand-cap  {
+				font-size : 23vw;
+			}
+			
+			
+		  
+			
+		}
+
+		@media (min-width:1200px) {
+			
+			.f-brand-cap  {
+				font-size : 5vw;
+			}
+ 
+		}
+		
+			
+	 		
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 /**************************/ 
+		 		
+	 				
+	 				
+	 					
+	 	 
+	 			
+
+			
+		.spacer
+		{
+		   
+			 letter-spacing:0.2em; 
+			
+		}
+		
+		
+	 
+			/* ( No. of pixels = 4/3 * N pt) */
+			/* 90pt - 120px */
+			/* 72pt - 96px */
+			/* 30pt - 40px */
+			/* 24pt - 32px */
+			/* 20pt - 26px */
+			/* 18pt - 24px */
+	 
+		
+			/* <div class="offset-sm-4 col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4 offset-sm-4 "> */
+ 
