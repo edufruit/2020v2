@@ -1,11 +1,55 @@
  	
-		
+		  html { font-size: 100%; } /*20px*/
+
 		.gappy 
 		{
 		  
 			margin-top: 71px;  /* do not remove this, if removing then add 71px to margin-bottom i.e. 145+71 = 216px;   */
 			
 			margin-bottom: 145px;
+			
+		}
+		
+		.bg-blue 
+		{
+		   
+			background-color : #0000FF;
+			
+		}
+		
+		.bg-red 
+		{
+		   
+			background-color : #FF0000;
+			
+		}
+		
+		.bg-green 
+		{
+		   
+			background-color : #00FF00;
+			
+		}
+		
+		.bg-yellow 
+		{
+		   
+			background-color : #ffff00;
+			
+		}
+		
+		.h468
+		{
+		   
+			height : 468px;
+			
+		}
+		
+		
+		.h66 
+		{
+		   
+			height : 66px;
 			
 		}
 		
@@ -91,6 +135,14 @@
 			
 		}
 		
+		.underlined 
+		{
+		   
+			text-decoration : underline;
+			
+		}
+		
+		
 		.fat 
 		{
 		   
@@ -148,7 +200,13 @@
 			 
 	 		
 	 				
-	 	 
+		
+			.menu-icon-box {
+			   display: flex;
+			   align-items:center; 
+			}
+
+	 	  
 		
 		 /**************************/ 
 		 /**************************/ 
@@ -160,15 +218,46 @@
 	 				
 		@media (min-width:300px) {
 			
+
+
+			.more {
+
+				font-size: 16px;
+				margin-top:30px; 
+				margin-bottom:20px; 
+
+			}
+			
+			
+			.f-heading {
+
+				font-size: 30px; 
+
+			}
+			
+			#logo-small-edufruit {
+
+				width: 130px; 
+
+			}
+			
 			
 			.f-menu  {
 
-				font-size : 7.5vw;
+				font-size : 5vw;
 
 			}
 
+		
+			.menu-icon-box {
+				
+			   margin-right : 10px; 
+			   
+			}
+			
 
-			.burger-icon {
+
+			/* .burger-icon {
 
 				width : 70%;
 
@@ -181,27 +270,30 @@
 
 			}
 
-
+ */
 
 			.f-box1-heading1 {
 
-				font-size : 7vw;
-
+				font-size : 7vw; 
+				margin-top: 20px;
 			}
 
 			.f-box1-heading2 {
 
-				padding : 40px 10px 10px 10px;
-				font-size: 25px;
+				padding : 0px 10px 0px 10px;
+				font-size: 22px;
+				margin-top: 20px;
 			}
 
 			.f-box1-content {
 
-				 padding : 10px 20px 10px 20px;  
-				 text-overflow: ellipsis;
+				padding : 0px 8px  0px 8px;  
+				text-overflow: ellipsis;
+				margin-top: 20px;
 
-				 font-size: 16px;
-				 line-height: 45px;
+				margin-top: 20px;
+				font-size: 16px;
+				line-height: 45px;
 			}
 
 		}
@@ -213,19 +305,21 @@
 			
 			
 		@media (min-width:576px) {
+			
+			
 			.f-menu  {
 				font-size : 3vw;
+			}	
+ 
+ 
+			.menu-icon-box {
+				
+			   margin-right:40px; 
+			   
 			}
+			
 		}
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -236,30 +330,81 @@
 				font-size : 4vw;
 			}
 			
-			
+			/* 
 			.burger-icon {
 				width : 78%;
 			}
 			.burger-text {
 				width : 22%;
 			}
-			
-			
+			 */
+				
+			.f-box1-heading1 {
+
+				font-size: 3vw;
+				margin-top: 15px;
+
+			}
+			 
+			.f-box1-heading2 {
+
+				padding : 0px 0px 0px 0px;
+				font-size: 18px;
+				margin-top: 40px;
+			}
+
+			.f-box1-content {
+
+				padding : 0px 0px 0px 0px;   
+				font-size: 12px;
+				line-height: 35px;
+				margin-top: 20px;
+
+			}
+ 
+
 		}
+
+
+
 
 		@media (min-width:992px) {
 			.f-menu  {
 				font-size : 3vw;
 			}
 			
-			
+			/* 
 			.burger-icon {
 				width : 82%;
 			}
 			.burger-text {
 				width : 18%;
-			}
+			} */
 			
+			.f-box1-heading1 {
+
+				font-size: 2.5vw;
+				margin-top: 15px;
+
+			}
+			 
+			.f-box1-heading2 {
+
+				padding : 0px 5px 0px 5px;
+				font-size: 22px;
+				margin-top: 40px;
+			}
+
+			.f-box1-content {
+
+				padding : 0px 10px 0px 10px;   
+				font-size: 15px;
+				line-height: 45px;
+				margin-top: 20px;
+			}
+ 
+
+
 			
 		}
 
@@ -267,24 +412,60 @@
 			.f-menu  {
 				font-size : 1.5vw;
 			}
-
+/* 
 			.burger-icon {
-				width : 87%;
+				width : 60%;
 			}
 			.burger-text {
 				width : 13%;
 			}
+ */
+
+
+			.f-heading {
+
+				font-size: 4em; 
+
+			}
+			
+
+
+			.more {
+
+				font-size: 20px;
+				margin-top:20px; 
+				margin-bottom:20px; 
+
+			}
+			
+
 
 			.f-box1-heading1 {
 
-				font-size : 1.7vw;
+				font-size: 1.5vw;
+				margin-top: 15px;
 
 			}
+			
 			.f-box1-heading2 {
 
-				padding : 40px 10px 30px 10px;
-				font-size:30px;
+				padding : 0px 5px 0px 5px;
+				font-size: 27px;
+				margin-top: 40px;
 			}
+
+			.f-box1-content {
+
+				 padding : 0px 30px 0px 30px;   
+				 font-size: 16px;
+				 line-height: 45px;
+					margin-top: 20px;
+			}
+
+
+
+
+
 		}
 		
 			
