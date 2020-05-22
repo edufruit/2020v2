@@ -53,7 +53,7 @@
 			
 		}
 		
-		.seperator65 
+		.separator65 
 		{
 		   
 			height : 65px;
@@ -61,7 +61,7 @@
 		}
 		
 		
-		.seperator71 
+		.separator71 
 		{
 		   
 			height : 71px;
@@ -69,35 +69,35 @@
 		}
 		
 		
-		.seperator18
+		.separator18
 		{
 		   
 			height : 18px;
 			
 		}
 		
-		.seperator41
+		.separator41
 		{
 		   
 			height : 41px;
 			
 		}
 			
-		.seperator136
+		.separator136
 		{
 		   
 			height : 136px;
 			
 		}
 		
-		.seperator122
+		.separator122
 		{
 		   
 			height : 122px;
 			
 		}
 		
-		.seperator30
+		.separator30
 		{
 		   
 			height : 30px ;
@@ -105,7 +105,7 @@
 		}
 		
 		
-		.seperator15
+		.separator15
 		{
 		   
 			height : 15px ;
@@ -113,7 +113,7 @@
 		}
 		
 		
-		.seperator35
+		.separator35
 		{
 		   
 			height : 35px ;
@@ -121,14 +121,14 @@
 		}
 		
 		
-		.seperator145 
+		.separator145 
 		{
 		   
 			height : 145px;
 			
 		}
 		
-		.seperator64 
+		.separator64 
 		{
 		   
 			height : 64px;
@@ -159,6 +159,33 @@
 		
 		
 	 	
+		.lh-45
+		{
+		   
+			line-height : 45px;
+			
+		}
+			
+		.f-26
+		{
+		   
+			font-size : 26px;
+			
+		}
+		.f-16
+		{
+		   
+			font-size : 16px;
+			
+		}
+			
+		.f-18 
+		{
+		   
+			font-size : 18px;
+			
+		}
+			
 		.f-18h
 		{
 		   
@@ -171,6 +198,13 @@
 		{
 		   
 			font-size : 17px;
+			
+		}
+			
+		.f-20
+		{
+		   
+			font-size : 20px;
 			
 		}
 			
@@ -222,10 +256,23 @@
 
 			.more {
 
-				font-size: 16px;
+				font-size: 18px;
 				margin-top:30px; 
 				margin-bottom:20px; 
 
+			}
+			
+
+			.f-tech-heading {
+
+				font-size: 26px;
+				
+			}
+			
+			.f-remedial-heading {
+
+				font-size: 26px;
+				
 			}
 			
 			
@@ -292,7 +339,7 @@
 				margin-top: 20px;
 
 				margin-top: 20px;
-				font-size: 16px;
+				font-size: 18px;
 				line-height: 45px;
 			}
 
@@ -310,6 +357,16 @@
 			.f-menu  {
 				font-size : 3vw;
 			}	
+ 
+ 
+ 
+			.f-remedial-heading {
+
+				font-size: 20px;
+				
+			}
+			
+ 
  
  
 			.menu-icon-box {
@@ -457,7 +514,7 @@
 			.f-box1-content {
 
 				 padding : 0px 30px 0px 30px;   
-				 font-size: 16px;
+				 font-size: 18px;
 				 line-height: 45px;
 					margin-top: 20px;
 			}

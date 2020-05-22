@@ -47,7 +47,29 @@
 
 
 
-								<div class="seperator122"></div>
+								<div class="separator122"></div>
+				  
+				  
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+			 
+
+					';
+	
+	
+	
+		$Separator65 = '
+
+
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+ 
+												
+
+									<div class="separator65"></div>
+ 
 				  
 				  
 							<!----------------------------------------------------------------->
@@ -79,21 +101,21 @@
 					
 				}
 				
-				.seperator71 
+				.separator71 
 				{
 				   
 					height : 71px;
 					
 				}
 				
-				.seperator145 
+				.separator145 
 				{
 				   
 					height : 145px;
 					
 				}
 				
-				.seperator64 
+				.separator64 
 				{
 				   
 					height : 64px;
@@ -373,7 +395,7 @@
 
 
 
-				<div class="seperator71"></div>
+				<div class="separator71"></div>
         
 
 				 
@@ -384,7 +406,7 @@
 
 
 
-				<div class="seperator71"></div>
+				<div class="separator71"></div>
         
 
 
@@ -530,7 +552,7 @@
  
  
  
-					<div class="seperator41"></div>
+					<div class="separator41"></div>
 			
 
 	 
@@ -545,7 +567,7 @@
 						</div>
 					 
 					
-						<div id="notonly" class="spacer text-center f-slight f-17 col-10">
+						<div id="notonly" class="spacer text-center f-slight f-20 col-10">
 							
 							not only an ERP solution, not only an LMS,
 						
@@ -570,7 +592,7 @@
 
 	 
 
-					<div style="height:19px;" class="1seperator18"></div>
+					<div style="height:19px;" class="1separator18"></div>
 			
 
 	 
@@ -590,7 +612,7 @@
 						</div>
 					 
 					
-						<div class="f-slight col-10   text-center spacer"  style="font-size:17.5px;">
+						<div class="f-slight col-10   text-center spacer f-20">
 							
 							an <span class="fat">RGB</span> model for your institution
 							
@@ -614,7 +636,7 @@
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 			
 
 
@@ -628,7 +650,7 @@
 						</div>
 					
 					
-						<div class="f-slight col-10 col-lg-10 col-mdd-8  text-center spacer " style="font-size:16px; line-height:45px;">
+						<div class="f-slight col-10 col-lg-10 col-mdd-8  text-center spacer " style="font-size:18px; line-height:45px;">
 							
 								
 								We help education institutions sail through radical transformation, whilst technology acts as a major catalyst. Our proven expertise of over 14 years in technology, specific for education and implementation with institutions of eminence could be 
@@ -662,7 +684,7 @@
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 			
 <?php // col-10 col-lgg-6 col-mdd-8 ?>
 
@@ -1127,7 +1149,7 @@
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 				 
  
 	 
@@ -1399,7 +1421,7 @@
 											
 											<div class="f-slight spacer f-box1-content " >
 											
-												A group of people can do wonders. Indigenous departments of diversity are a boon. Managing them effi-
+												A group of people can do wonders. Indigenous departments of diversity are a boon. Managing...
 											
 												<div class="invisible" style="display:none;" id="bridgemoretext">
 												   -ciently is the difference. Our applications help you manage the utmost important bridge to your institution the departments of Finance, Marketing, Sales, Counseling, Estate, HR, IT, Complaints, Audit, Strategy, Communications, Library, Placements, Alumni, Inventory, Hostels, Transport, Mess, Canteen. 
@@ -1486,7 +1508,7 @@
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -1523,7 +1545,7 @@
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -1541,7 +1563,7 @@
 						</div>
 					
 					
-						<div class="f-slight col-10 col-lgg-8 col-mdd-8  text-center spacer " style="font-size:16px; line-height:45px;">
+						<div class="f-slight col-10 col-lgg-8 col-mdd-8  text-center spacer " style="font-size:18px; line-height:45px;">
 							
 							“Ed-tech didn’t perform. Technologists turn out to be obnoxious. Support is pathetic.”
   
@@ -1571,7 +1593,7 @@
 						</div>
 					
 					
-						<div class="f-slight col-10 col-lgg-8 col-mdd-8 fat text-center spacer " style="font-size:16px; line-height:45px;">
+						<div class="f-slight col-10 col-lgg-8 col-mdd-8 fat text-center spacer " style="font-size:18px; line-height:45px;">
 							 
 							The educationist. 
 							
@@ -1606,7 +1628,7 @@
 						</div>
 					
 					
-						<div class="f-slight col-10 col-lgg-8 col-mdd-8  text-center spacer " style="font-size:16px; line-height:45px;">
+						<div class="f-slight col-10 col-lgg-8 col-mdd-8  text-center spacer " style="font-size:18px; line-height:45px;">
 					 
 “What is it that the institutions want? Our application is so easy.”
  			
@@ -1641,7 +1663,7 @@
 						</div>
 					
 					
-						<div class="f-slight col-8 col-lgg-8 col-mdd-8 fat text-center spacer " style="font-size:16px; line-height:45px;">
+						<div class="f-slight col-8 col-lgg-8 col-mdd-8 fat text-center spacer " style="font-size:18px; line-height:45px;">
 				 
 The technologist.
 							
@@ -1706,7 +1728,7 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -1727,7 +1749,7 @@ The technologist.
 						</div>
 					
 					
-						<div class="f-slight col-10 col-lgg-8 col-mdd-8  text-center spacer " style="font-size:16px; line-height:45px;">
+						<div class="f-slight col-10 col-lgg-8 col-mdd-8  text-center spacer " style="font-size:18px; line-height:45px;">
 					 
 									Above is the problem. We worked on a solution called Ethnography. We worked amongst 8000+ students, 200+ faculty and 150+ staff, delivering to 100,000+ students & 20,000+ faculty & staff for a span of 10 years, devising products that work.  
 						</div>
@@ -1758,7 +1780,7 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -1846,7 +1868,7 @@ The technologist.
 						</div>
 					
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:16px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Learning</div>
 									<div class="fat">liberalise.in</div>
@@ -1932,7 +1954,7 @@ The technologist.
 						</div>
 					
 					
-						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer " style="font-size:16px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Academics</div>
 									<div class="fat">academicbot.in</div>
@@ -1978,7 +2000,7 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	   
 				<!----------------------------------------------------------------->
@@ -1996,7 +2018,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:16px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Admissions</div>
@@ -2067,7 +2089,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:16px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">HR</div>
 									<div class="fat">evolutionary.in</div>
@@ -2141,7 +2163,7 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -2195,7 +2217,7 @@ The technologist.
 						</div>
 					
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:16px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Finance</div>
@@ -2258,7 +2280,7 @@ The technologist.
 						</div>
 					
 					
-						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer " style="font-size:16px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Librari</div>
 									<div class="fat">Librari.in</div>
@@ -2309,7 +2331,7 @@ The technologist.
 
  
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -2326,7 +2348,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:16px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Alumni</div>
@@ -2386,7 +2408,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:16px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Communi&shy;cations</div>
 									 
@@ -2461,7 +2483,7 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -2493,7 +2515,7 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -2511,7 +2533,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:16px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Hostels & Transport</div>
@@ -2566,7 +2588,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer text-right" style="font-size:16px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Inventory</div>
 									<div class="fat">Inventori.in</div>
@@ -2682,7 +2704,7 @@ The technologist.
 					
 					 
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:16px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Registrar Office</div>
@@ -2725,7 +2747,7 @@ The technologist.
 					
 					
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:16px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Custom Solutions</div> 
 									 
@@ -2847,7 +2869,7 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight" style="font-size:16px; line-height:45px;">
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight" style="font-size:18px; line-height:45px;">
 														
 								Comprehensive evaluation with accreditation agencies or compliance readiness scrutiny. Our applications define the journey and analytics for regular monitoring and tracking of any subside in the institution. Our application works a breeze for 
 								institutions articulating standardization models as their culture to achieve excellence. We have worked with institutions of excellence to facilitiate the process of compliance and accreditation for the following agencies..							
@@ -2955,7 +2977,7 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight" style="font-size:16px; line-height:45px;">
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight" style="font-size:18px; line-height:45px;">
 														
 								Various citations and in our experience majority of LMS, ERP & learning technologies implementation service requirement, do not occur in technological complexity, standardization, compatibility etc., but in organizational and personnel centric issues. Our subject expert consultant services act as the guiding force. 						
 							</div>
@@ -2978,15 +3000,12 @@ The technologist.
 					<?php
 					
 							
-							echo $Separator122;
+							echo $Separator65;
 					
 					
 					?>
-
-
  
-
-
+ 
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
@@ -3001,7 +3020,7 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight fat" style="font-size:20px; line-height:45px;">
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight fat f-26 lh-45"  >
 								Inscribing problem areas
 							</div>
 							
@@ -3020,18 +3039,16 @@ The technologist.
 
 
 
+
 					<?php
 					
 							
-							echo $Separator122;
+							echo $Separator65;
 					
 					
 					?>
 
-
  
-
-
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
@@ -3044,35 +3061,51 @@ The technologist.
 							<div class="col-1 col-lg-1 col-md-1 col-sm-1 ">
 						 							
 							</div>
-							
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight  " style="font-size:16px; line-height:45px;">
 								
-							 <p>Top risk factors for failure of implementation of education technologies, ERP </p>
-							 <p>LMS are classified as below : </p>
-															<ol style="list-style-type: lower-alpha;">
-								<li>organizational culture,</li>
-								<li>incompatible business processes</li>
-								<li>composition of project team members</li>
-								<li>lack of effective project management methodology</li>
-								<li>failure to get support from organization team</li>
-								<li>lack of senior management commitment</li>
-								<li>insufficient training of end users</li>
-								<li>conflicts between departments</li>
-								<li>failure to redesign business processes</li>
-								<li>misunderstanding of change requirements</li>
-								<li>resistance to change.</li>
-							</ol>
-
-
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">
+									
+								<div class="col-12 col-lg-12 col-md-12 col-sm-12">
+									Top risk factors for failure of implementation of education technologies, ERP 
+								</div>
+									
+								<div class="col-12 col-lg-12 col-md-12 col-sm-12">
+									LMS are classified as below : 
+								</div>
+														
 							</div>
-							
-							<div class="col-1  col-lg-1 col-md-1 col-sm-1 ">
+													
+						</div>
+															
+
+						<div class="row">
+														<div class="col-2 col-lg-2 col-md-1 col-sm-1 ">
 						 							
 							</div>
 							
-						</div>
+							
+							<div class="f-18 f-slight spacer lh-45 col-10 col-lg-10 col-md-12 col-sm-12 ">
+																<ol style="list-style-type: lower-alpha;">
+									<li>organizational culture,</li>
+									<li>incompatible business processes</li>
+									<li>composition of project team members</li>
+									<li>lack of effective project management methodology</li>
+									<li>failure to get support from organization team</li>
+									<li>lack of senior management commitment</li>
+									<li>insufficient training of end users</li>
+									<li>conflicts between departments</li>
+									<li>failure to redesign business processes</li>
+									<li>misunderstanding of change requirements</li>
+									<li>resistance to change.</li>
+								</ol>
 
- 
+
+							</div>
+						
+						  
+
+						</div>
+						
+						  
  
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
@@ -3092,7 +3125,7 @@ The technologist.
 				<?php
 				
 						
-						echo $Separator122;
+						echo $Separator65;
 				
 				
 				?>
@@ -3114,7 +3147,7 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-12 col-lg-10 col-md-12 col-sm-12 fat text-center text-black bg-white spacer f-slight " >
+							<div class="f-26 col-12 col-lg-10 col-md-12 col-sm-12 fat text-center text-black bg-white spacer f-slight " >
 						
 								Remedial services matrix
 							
@@ -3139,13 +3172,1094 @@ The technologist.
 				<?php
 				
 						
+						echo $Separator65;
+				
+					// .square {
+					  // border: 2px red solid;
+					  // position: relative;
+					  // width: 95px;
+					  // height: 95px;
+					// }
+
+					// .square:after {
+					  // content: "";
+					  // display: block;
+					  // padding-bottom: 100%;
+					// }
+
+					// .content {
+					  // position: absolute;
+					  // width: 100%;
+					  // height: 100%;
+					// }
+				
+				
+				
+				
+				
+				
+				?>
+
+		
+		
+			<style>
+			
+					.hollow-square { 
+						border: 2px solid red;
+						position: relative;
+						text-align: center;
+						width: 100px;
+						height: 100px; 
+					  }
+
+					  .hollow-content {
+						font-size: 2em;
+						padding-top: 20%;
+					  }
+								
+			
+			</style>
+ 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+ 
+	<style>            
+				.box{
+						width: 98px;
+						height: 108px;
+						/* opacity: 1;
+						position: absolute;
+						top: 7px;
+						left: 7px;  */
+						margin-top: 7px;
+						margin-left: 7px;
+						margin-bottom: 20px;
+
+				}      
+				.stack-content{
+										/*   flex: 0 0 50px; */
+
+				}     
+				.rmbox{
+				width: 164px;
+				height:100%;
+				/* 
+				height: 38px;
+						margin-top: 7px;
+						margin-left: 7px;
+						margin-bottom: 20px;
+	*/
+				/* 
+					*/	
+				
+					opacity: 1;
+					/* position: absolute; */
+					position: relative;
+					top: 7px;
+					left: 7px; 
+			display: flex;
+					justify-content: center;
+					align-items: center;			
+				}
+				.cube-red
+				{
+					background: #ffffff;
+					z-index: 1;
+					border: 3px solid red;
+				} 
+	  
+
+				.cube-green
+				{
+					background: #ffffff;
+					z-index: 1;
+					border: 3px solid #00ff00;
+				} 
+	  
+	  
+				.cube-blue
+				{
+					background: #ffffff;
+					z-index: 1;
+					border: 3px solid #0000ff;
+				} 
+	  
+	  
+	  
+	</style>
+<?php 
+									
+							
+								// <div class="h ollow-square">
+								 
+								// </div> 
+
+
+													
+										function GetCards($StrokeColor)
+										{
+							
+							
+											return '							
+														<div class="box '.$StrokeColor.'">
+															<div class="box '.$StrokeColor.'">
+																<div class="box '.$StrokeColor.'"></div>
+															</div>
+														</div>';
+									
+										}
+							
+							
+													
+										function GetCardsReadMore($StrokeColor, $DOMID)
+										{
+							
+							
+											return '							
+														<div data-more="" class=" rmbox '.$StrokeColor.'">
+															<div class="rmbox '.$StrokeColor.'"> 
+																<div data-more="Read more..." id="'.$DOMID.'" class="cardpack stack-content">Read more...</div>
+															</div>
+														</div>';
+									
+										}
+							
+							
+											
+								// 3 cubes box stack overlap
+								// READ MORE 
+								// - width : 164 px, border 3 px, height - 38px; 
+								
+							
+							 
+								
+							?>
+						<div class="row">
+						
+							 
+								 
+							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
+						 			
+								<div class="row">
+								
+									
+									<div style="padding-left: 15px;" class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+								
+								
+									<?php 
+											
+									
+										// <div class="h ollow-square">
+										 
+										// </div> 
+		 
+										// 3 cubes box stack overlap
+										// READ MORE 
+										// - width : 164 px, border 3 px, height - 38px; 
+										
+									
+									
+									 
+									
+										echo GetCards('cube-red');
+										
+										
+										
+										
+									?>
+									
+
+									</div>
+									
+									<div class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
+								
+										Analytics & strategy for outstanding e-learning experiences 
+									
+									</div>
+									
+										  
+									
+									
+								</div>
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+			
+
+								<div class="row">
+								
+									
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									<div class="lh-45 f-18 col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  "  >		
+
+									
+										Strategic planning for delivering courses through e-learning technologies require adoption of new policies, processes...
+										 
+										
+											<div class="invisible" style="display:none;" id="remedialservice1text">
+												 and culture. We provide you with a complete roadmap, strategy, analytical ability, devising a framework and holistic approach  towards creating unmatched e-learning experiences. 
+
+											</div>
+									
+									</div>
+									  
+									
+									
+								</div>
+
+									
+									
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
+
+											<?php
+											
+													
+													echo GetCardsReadMore('cube-red', 'remedialservice1');
+											
+											
+											?>
+
+									</div>
+									
+								</div>
+									
+									
+							 
+							</div>
+
+								 
+						
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+							  
+  	 
+							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
+						 			
+
+								<div class="row">
+										
+										 
+
+									<div style="padding-left: 15px;"  class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+									
+											
+										<?php 
+										 
+											echo GetCards('cube-green');
+										
+										?> 
+										
+									</div>
+									
+									
+									
+									<div class="lh-45  f-remedial-heading col-6 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
+								
+										Evolve academics with actionable data insights
+									
+									</div>
+									
+							
+								</div> 
+		
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+			
+			
+								<div class="row">
+									
+									
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									
+									<div class="lh-45 f-18 col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  "  >						
+											
+											We bring in the right perspective to drive efficacy of your implementation of technologies. We align the objective and ...
+											<div class="invisible" style="display:none;" id="remedialservice2text">
+											  do goal setting to derive actionable data, dig insights  and setup framework to assimilate information. As a result you have predictable insights and analytics to act and evolve your stakeholders. 
+
+											</div>
+									
+									</div>
+									
+									 
+							
+								</div>
+		
+									
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+															
+									</div>
+										
+										
+									<div class=" col-6 col-lg-4 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
+										
+											<?php
+											
+													
+													echo GetCardsReadMore('cube-green', 'remedialservice2');
+											
+											
+											?>
+
+									</div>
+									 
+			
+							
+								</div>
+
+							 
+									 
+			
+							
+							</div>
+
+
+ 							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+							  
+
+							
+						</div>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
 						echo $Separator122;
 				
 				
 				?>
 
+ 
 
  
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+
+						<div class="row">
+						
+							 
+								 
+							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
+						 			
+
+								<div class="row">
+								
+									
+									<div style="padding-left: 15px;" class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+								
+								
+									<?php 
+								 
+									
+										echo GetCards('cube-blue');
+										 
+										
+									?>
+									
+
+									</div>
+									
+									<div class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " > 
+										
+										Competency based education efficacy management
+									
+									</div>
+									
+										  
+									
+									
+								</div>
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+			
+
+								<div class="row">
+								
+									
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									
+									<div class=" col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
+										
+										
+										Delivering CBE requires radical & structural reforms in the environment and ecosystem of your organization...
+										
+										<div class="invisible" style="display:none;" id="remedialservice3text">
+												Our services help you generate reports on readiness , financial feasibility, academic support, demand, quality assessment, regulatory authorization, HR, faculty & staff ownership to reveal the utilities & results with competency based education
+										</div>
+										
+										
+										
+									</div>
+									  
+									
+									
+								</div>
+
+									
+							
+									
+									
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
+
+											<?php
+											
+													
+													echo GetCardsReadMore('cube-blue', 'remedialservice3');
+											
+											
+											?>
+
+									</div>
+									
+								</div>
+									
+									
+							 
+							</div>
+
+								 
+						
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+							  
+  	 
+							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
+						 			
+
+								<div class="row">
+										
+										 
+
+									<div style="padding-left: 15px;"  class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+									
+											
+										<?php 
+										 
+											echo GetCards('cube-red');
+										
+										?> 
+										
+									</div>
+									
+									
+									
+									<div class="lh-45 f-remedial-heading col-6 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
+								  
+										Digital first marketing & strategies for enrollments
+									
+									</div>
+									
+							
+								</div> 
+		
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+			
+			
+								<div class="row">
+									
+									
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									
+									<div class=" col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">	
+					
+											
+											An enormous market potential, an equivalent competitive streak & altruistic ideals riding on an aggresive marketing and 
+											
+											<div class="invisible" style="display:none;" id="remedialservice4text">
+												
+												research strategy act as a beacon to attract the right students and their retention. Our services for enrollment help you manage your branding, sales and marketing activities with followups, analytics, decision making tools, engagement etc. Our services include website design, development, SEO, creatives, media planning, buying, social media planning, content strategy and viability research.
+
+											</div>
+									
+									 
+									</div>
+									
+									 
+							
+								</div>
+
+	
+									
+									
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+															
+									</div>
+										
+										
+									<div class=" col-6 col-lg-4 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
+										
+											<?php
+											
+													
+													echo GetCardsReadMore('cube-red', 'remedialservice4');
+											
+											
+											?>
+
+									</div>
+									 
+			
+							
+								</div>
+
+							 
+									 
+			
+							
+							</div>
+
+
+ 							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+							  
+
+							
+						</div>
+
+
+ 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+
+ 
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+ 
+
+
+
+						<div class="row">
+						
+							 
+								 
+							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
+						 			
+
+								<div class="row">
+								
+									
+									<div style="padding-left: 15px;" class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+								
+								
+									<?php 
+											
+									
+										// <div class="h ollow-square">
+										 
+										// </div> 
+		 
+										// 3 cubes box stack overlap
+										// READ MORE 
+										// - width : 164 px, border 3 px, height - 38px; 
+										
+									
+									
+									 
+									
+										echo GetCards('cube-green');
+										
+										
+										
+										
+									?>
+									
+
+									</div>
+									
+									<div class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
+								
+										Student attrition research to student retention & engagement
+									
+									</div>
+									
+										  
+									
+									
+								</div>
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+			
+
+								<div class="row">
+								
+									
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									<div class=" col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
+										Majority of institutions have to face drastic student attrition rates. The inability of student to identify the environment they are 
+											<div class="invisible" style="display:none;" id="remedialservice5text">
+												dealing with, failed motivation, isolation, pace, inability to cope, bleak ideas for career prospects & financial health are some of the factors  responsible for attrition. Our dashboard, tools and tech are aligned to provide you with analytical and predictive reports to identify gap in subject competency, lack of interest, proactiveness, engagement, conseling, outreach etc. during data based decisions to improve student retention. 
+											</div>
+									</div>
+									  
+									
+									
+								</div>
+
+									
+									
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
+
+											<?php
+											
+													
+													echo GetCardsReadMore('cube-green', 'remedialservice5');
+											
+											
+											?>
+
+									</div>
+									
+								</div>
+									
+									
+							 
+							</div>
+
+								 
+						
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+							  
+  	 
+							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
+						 			
+
+								<div class="row">
+										
+										 
+
+									<div style="padding-left: 15px;"  class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+									
+											
+										<?php 
+										 
+											echo GetCards('cube-blue');
+										
+										?> 
+										
+									</div>
+									
+									
+									
+									<div class="  lh-45 f-remedial-heading col-6 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
+								
+										HR augmentation, training & certfications
+									
+									</div>
+									
+							
+								</div> 
+		
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+			
+			
+								<div class="row">
+									
+									
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+									
+									
+									<div class="f-18 lh-45 col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight " >	
+					
+					
+											Our services for training and modules for holistic development of faculty and staff help your personnel achieve tech oriented...
+											
+											<div class="invisible" style="display:none;" id="remedialservice6text">
+												 approach. Resulting in improved & efficient processes and procedures. We take up the faculty and staff go through extensive virtual activity based sessions to identify barriers in delivering quality education to their students.
+											</div>
+											
+									</div>
+									
+									 
+							
+								</div>
+
+	
+									
+									
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				  
+
+								<?php
+								
+										
+										echo $Separator65;
+								
+								
+								?>
+ 
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+															
+									</div>
+										
+										
+									<div class=" col-6 col-lg-4 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
+										
+											<?php
+											
+													
+													echo GetCardsReadMore('cube-blue', 'remedialservice6');
+											
+											
+											?>
+
+									</div>
+									 
+			
+							
+								</div>
+
+							 
+									 
+			
+							
+							</div>
+
+
+ 							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+							  
+
+							
+						</div>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+ 
+ 
+
+  
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+  
+  
+  
+  
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+
+ 
+
  
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
@@ -3162,33 +4276,11 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-6 col-lg-3 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
+							<div class=" col-12 col-lg-10 col-md-12 col-sm-12 fat text-center text-black bg-white spacer f-slight f-heading" >
 						
-								CUBE DESIGN 
+								Technologies & Architecture
 							
 							</div>
-							
-							<div class="f-17 col-6 col-lg-3 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
-						
-								ANALYTICS & STRATEGY FOR CREATING OUTSTANDING E-LEARNING EXPERIENCES 
-							
-							</div>
-							
-								
-							<div class=" col-6 col-lg-3 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
-						
-								CUBE DESIGN 
-							
-							</div>
-							
-							<div class="f-17 col-6 col-lg-3 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
-						
-								EVOLVE ACADEMICS WITH ACTIONABLE DATA INSIGHTS
-							
-							</div>
-							
-							
-					 
 							
 							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
 						 							
@@ -3215,6 +4307,807 @@ The technologist.
 				?>
 
 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+
+						<div class="row">
+						
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+						 							
+							</div>
+							
+							<div class="lh-45 f-18 col-12 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight " >
+						
+								
+								We are a core education technology company. Our products are a perspective to our vision for wider acceptability of education and measurement of quantifiable impact on people for whom education will be the change. We have created an environment for cultivating & nurturing technological talent, to explicitly making its application for education. 
+ 
+							
+							</div>
+							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+						 							
+							</div>
+							
+						</div>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+
+
+
+
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+  
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-------------------------- cube design --------------------------> 
+ 
+ 
+ 
+									<style> 
+								
+							       
+											
+											
+											
+											    
+													
+													
+												.height-cube-row 
+												{
+													height:61px;
+													
+												}
+												  
+	
+									</style> 
+ 
+							
+							
+
+
+						<div class="row">
+						 	 
+									 
+							<div class=" col-lg-5 col-md-1 col-sm-1 ">
+								
+
+								<div class="row">
+								 
+													 
+
+									<div class="col-2 col-lg-5" > 
+									
+									
+										<div class="row height-cube-row"> 
+										
+											
+											<div class="col-2"> 
+											</div> 
+											
+											<div class="col-4" style="background-color:red;"  > 
+											
+											</div> 
+											
+											<div class="col-4" style="background-color:#00ff00;"> 
+											
+											</div> 
+											
+											<div class="col-2"> 
+											</div> 
+										
+										
+										</div> <!-- end of row inside col-2 --> 
+													
+										
+										<div class="row height-cube-row"> 
+										
+											
+											<div class="col-2"> 
+											</div> 
+											
+											<div class="col-4"   > 
+											
+											</div> 
+											
+											<div class="col-4" style="background-color:red;"> 
+											
+											</div> 
+											
+											<div class="col-2"> 
+											</div> 
+										
+										
+										</div> <!-- end of row inside col-2 --> 
+										
+										
+									
+									</div>
+									
+									<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+								
+										Cognitive bot answers all your queries
+									
+									</div>
+									
+								</div>
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+								 
+									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									
+										Empower your team and customers with our powerful cognitive bot, getting accurate answers, solving problems at pace and building resilience. Predictive analytics, 
+									
+									
+										<div class="invisible" style="display:none;" id="tech-readmore1text">
+									
+											data curation, meaningful results and threat alarms give you advanced insights for a better business.  
+								
+										</div>
+									
+									 
+									
+									</div>
+									
+									 
+								
+								</div>
+	
+
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+					  
+
+
+									<?php
+									
+											
+											echo $Separator65;
+									
+									
+									?>
+	 
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+				 
+				 
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+											
+									<div id="tech-readmore1" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-red spacer f-slight p-2 " >
+									
+										read more
+									
+									</div>
+									
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
+								
+							</div>
+	
+									 
+							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+						  
+								  
+								  
+								  
+							<div class=" col-lg-5 col-md-1 col-sm-1 ">
+								
+
+								<div class="row">
+								
+												
+									<div class=" col-3 col-lg-4  " > 
+											
+											<div class="row height-cube-row"> 
+										
+											
+												<div class="col-2"> 
+												</div> 
+												
+												<div class="col-4" style="background-color:blue;"  > 
+												
+												</div> 
+												
+												<div class="col-4" style="background-color:#00ff00;"> 
+												
+												</div> 
+												
+												<div class="col-2"> 
+												</div> 
+											
+										
+											</div> <!-- end of row inside col-2 --> 
+										
+											
+											
+											<div class="row height-cube-row"> 
+											
+												
+												<div class="col-2"> 
+												</div> 
+												
+												<div class="col-4"   > 
+												
+												</div> 
+												
+												<div class="col-4" style="background-color:blue ;"> 
+												
+												</div> 
+												
+												<div class="col-2"> 
+												</div> 
+											
+											
+											</div> <!-- end of row inside col-2 --> 
+											
+												 
+										</div> 
+						
+						
+										 
+										<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									
+											AI powered for data science
+										
+										</div>
+									
+									</div>
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+								 
+									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+										Converging your big data for creating machine learning models that can predict brand recognition, number of prospective students and... 
+									
+										<div class="invisible" style="display:none;" id="tech-readmore2text">
+										
+											 provide insights upon the quality screening of students. Recognizing  learning patterns & behavior of diverse learners and providing insights and approach for learning & pedagogy. 
+								
+										</div>
+									
+									</div>
+								 
+								 
+								</div>
+	
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+					  
+
+
+									<?php
+									
+											
+											echo $Separator65;
+									
+									
+									?>
+	 
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+				 
+				 
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+											
+									<div id="tech-readmore2" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-blue spacer f-slight p-2 " >
+									
+										read more
+									
+									</div>
+									
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
+								
+							</div>
+	
+								
+						 
+
+						</div>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+
+
+
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+	
+
+
+						<div class="row">
+						 	 
+									 
+							<div class=" col-lg-5 col-md-1 col-sm-1 ">
+								
+
+								<div class="row">
+								 
+													 
+
+									<div class="col-2 col-lg-5" > 
+									
+									
+										<div class="row height-cube-row"> 
+										
+											
+											<div class="col-2"> 
+											</div> 
+											
+											<div class="col-4" style="background-color:red;"  > 
+											
+											</div> 
+											
+											<div class="col-4" style="background-color:#00ff00;"> 
+											
+											</div> 
+											
+											<div class="col-2"> 
+											</div> 
+										
+										
+										</div> <!-- end of row inside col-2 --> 
+													
+										
+										<div class="row height-cube-row"> 
+										
+											
+											<div class="col-2"> 
+											</div> 
+											
+											<div class="col-4"   > 
+											
+											</div> 
+											
+											<div class="col-4" style="background-color:red;"> 
+											
+											</div> 
+											
+											<div class="col-2"> 
+											</div> 
+										
+										
+										</div> <!-- end of row inside col-2 --> 
+										
+										
+									
+									</div>
+									
+									<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+								
+										Cognitive bot answers all your queries
+									
+									</div>
+									
+								</div>
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+								 
+									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									
+										Empower your team and customers with our powerful cognitive bot, getting accurate answers, solving problems at pace and building resilience. Predictive analytics, 
+									
+									
+										<div class="invisible" style="display:none;" id="tech-readmore1text">
+									
+											data curation, meaningful results and threat alarms give you advanced insights for a better business.  
+								
+										</div>
+									
+									 
+									
+									</div>
+									
+									 
+								
+								</div>
+	
+
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+					  
+
+
+									<?php
+									
+											
+											echo $Separator65;
+									
+									
+									?>
+	 
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+				 
+				 
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+											
+									<div id="tech-readmore1" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-red spacer f-slight p-2 " >
+									
+										read more
+									
+									</div>
+									
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
+								
+							</div>
+	
+									 
+							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+													
+							</div>
+						  
+								  
+								  
+								  
+							<div class=" col-lg-5 col-md-1 col-sm-1 ">
+								
+
+								<div class="row">
+								
+												
+									<div class=" col-3 col-lg-4  " > 
+											
+											<div class="row height-cube-row"> 
+										
+											
+												<div class="col-2"> 
+												</div> 
+												
+												<div class="col-4" style="background-color:blue;"  > 
+												
+												</div> 
+												
+												<div class="col-4" style="background-color:#00ff00;"> 
+												
+												</div> 
+												
+												<div class="col-2"> 
+												</div> 
+											
+										
+											</div> <!-- end of row inside col-2 --> 
+										
+											
+											
+											<div class="row height-cube-row"> 
+											
+												
+												<div class="col-2"> 
+												</div> 
+												
+												<div class="col-4"   > 
+												
+												</div> 
+												
+												<div class="col-4" style="background-color:blue ;"> 
+												
+												</div> 
+												
+												<div class="col-2"> 
+												</div> 
+											
+											
+											</div> <!-- end of row inside col-2 --> 
+											
+												 
+										</div> 
+						
+						
+										 
+										<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									
+											AI powered for data science
+										
+										</div>
+									
+									</div>
+
+
+								<div class="row">
+								
+									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+															
+									</div>
+								 
+									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+										Converging your big data for creating machine learning models that can predict brand recognition, number of prospective students and... 
+									
+										<div class="invisible" style="display:none;" id="tech-readmore2text">
+										
+											 provide insights upon the quality screening of students. Recognizing  learning patterns & behavior of diverse learners and providing insights and approach for learning & pedagogy. 
+								
+										</div>
+									
+									</div>
+								 
+								 
+								</div>
+	
+				 
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+					  
+
+
+									<?php
+									
+											
+											echo $Separator65;
+									
+									
+									?>
+	 
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!-----------------------------------------------------------------> 
+				 
+				 
+				 
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+											
+									<div id="tech-readmore2" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-blue spacer f-slight p-2 " >
+									
+										read more
+									
+									</div>
+									
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
+								
+							</div>
+	
+								
+						 
+
+						</div>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+
+ 
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-1 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+												
+									<div class="lh-45 f-18 col-6 col-lg-10 col-md-6 col-sm-6  text-center text-black bg-white spacer f-slight " >
+									   
+																				
+										Services & support comprise the most essential components of a company, 
+										application and team. Services for our applications are delivered through essential documentation, email support and a dedicated or shared account manager.
+										<center class="fat">OUR SERVICE ARCHITECTURE</center>
+										
+										Our <span class="fat">SAAS</span> based delivery model ensures automated reporting of errors on 
+										occurance. <br>Which ensue fast paced resolution. 
+										
+										<br>Our <span class="fat">cloud services</span> are built in stealth mode with strict compliance to major 
+										protocols. 
+										
+										<br>For mission critical applications, critical data and cyber crime we have an array of solutions with advanced <span class="fat">computing architecture</span>.  
+										
+										<br>Our <span class="fat">framework</span>, a legacy of 14 years, stood tall through trecherous waves of load, evolving technologies, changing business 
+										dynamics and a trail of logical & technical upgrades and advancements.
+										 
+		
+									</div>
+									
+									
+									
+									<div class=" col-6 col-lg-1 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+									
+									
+								</div>
+ 
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+				<?php
+				
+						
+						echo $Separator122;
+				
+				
+				?>
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+
+
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
  
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
@@ -3248,27 +5141,191 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
  
+ 
+<!----------------------------------------------------------------->
+<!----------------------------------------------------------------->
+<!------------------------parallelogram ----------------------------------------->
+ 
+ 
+
+			<style>
+ 
+
+					.parallelogram {
+					width: 74px;
+					height: 155px;
+					transform: skew(0,-27deg);
+					background: #0000ff;
+
+
+					}
+
+
+
+					.height-row
+					{
+						height:250px;
+
+					}
+
+
+			</style>
+
+ 
+ 
+
+								<div class="row height-row" >
 
 
 
 
+									<div  class="col-1 ">
+
+
+									</div> <!-- end of col-1 -->
+
+
+									<div  class="col-1"  >
+
+
+
+										<div class="row">
+
+
+											<div  class="col-12 "  style="padding-top:30px; padding-left:15px;">
+	 
+												<div class="parallelogram" style="" >
+
+												</div>
+
+											</div>
+
+ 
+
+
+										</div> <!-- end of row  -->
+
+
+
+
+									</div> <!-- end of col-1 -->
+								 
+
+
+
+									<div class="col-1 ">
+
+										<div class="row height-row" >
+
+											<div class="col-8" >
+
+													<div class="row height-row">
+
+
+														<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+														</div>
+
+														<div class="col-1" >
+
+														</div>
+
+														<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+														</div>
+
+														<div class="col-1" >
+
+														</div>
+
+													<div class="col-1" style="background-color: blue; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: blue; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													</div> <!-- end of row -->
+
+
+											</div> <!-- end of col-8 -->
+
+
+										<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										</div> <!--end of row -->
+
+
+
+									</div>
+
+
+
+
+									<div class="col-7" >
+
+									</div>
+
+
+
+
+								</div>
+
+
+
+
+
+
+
+
+
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+								<!----------------------------------------------------------------->
+ 
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
  
-
- 
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
- 
-
-
-
-
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
  
 
  
@@ -3276,13 +5333,6 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
  
-
-
-
-
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
  
 
  
@@ -3290,13 +5340,6 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
  
-
-
-
-
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
  
 
  
@@ -3304,51 +5347,7 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
  
-
-
-
-
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
  
-
- 
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
- 
-
-
-
-
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
- 
-
- 
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
- 
-
-
-
-
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
- 
-
- 
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
- 
-
-
-
 
 			<?php
 					
@@ -3374,15 +5373,15 @@ The technologist.
 
 
 
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
 			
 
  
@@ -3392,10 +5391,10 @@ The technologist.
 					<center><h3>BEGINNING OF FOOTER CONTENT</h3></center>
 	  
 
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div>
-					<div class="seperator122"></div> 
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div>
+					<div class="separator122"></div> 
 	 
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
