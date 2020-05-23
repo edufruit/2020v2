@@ -1873,7 +1873,7 @@ The technologist.
 									<div style="  font-size:26px; " class="fat">Learning</div>
 									<div class="fat">liberalise.in</div>
 									
-									Digital pedagogy<br>stimulates cognition<br> & intuition. 
+									<?php // Digital pedagogy<br>stimulates cognition<br> & intuition.  ?>
 									
 									<div class="fat"><span class="underlined">Online Classes</span>, <span class="underlined">Live Q & A</span>, <span class="underlined">Mock Tests</span>, <span class="underlined">Analytics</span></div>	
 																		<div class="learningmore">
@@ -1959,7 +1959,7 @@ The technologist.
 									<div style="  font-size:26px; " class="fat">Academics</div>
 									<div class="fat">academicbot.in</div>
 									
-									A great environment<br> fosters great learning. 
+									<?php // A great environment<br> fosters great learning.  ?>
 									<div class="fat"><span class="underlined">Attendance</span>,<br><span class="underlined">Assessments</span>,<br><span class="underlined">Timetable</span>,<br><span class="underlined">Feedback</span>,<br><span class="underlined">Metrics</span></div>
 									
 										
@@ -2018,16 +2018,17 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px;  margin-left: 10px; line-height:45px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Admissions</div>
 									
-									<div class="fat">admissionbot.com</div>
+									<div class="fat">admissionbot<br>.com</div>
 									
+									 
+									<?php // Cognitive bot for conversions <span class="underlined">Leads</span>, ?>
+									<div class="fat">
 									
-									Cognitive bot for conversions
-									<div class="fat"><span class="underlined">Lead Generation</span>, 
 									<span class="underlined">Digital Marketing</span>,
 									<br>
 									<span class="underlined">Conversions</span>, 
@@ -2094,7 +2095,7 @@ The technologist.
 									<div style="  font-size:26px; " class="fat">HR</div>
 									<div class="fat">evolutionary.in</div>
 									
-									People are not data, they are more
+									<?php // People are not data, they are more ?>
 									
 									<div class="fat">
 										
@@ -2225,7 +2226,9 @@ The technologist.
 									<div class="fat">feeaccounts.com</div>
 									
 									
-									Automated finance<br>routines.
+									<?php // Automated finance<br>routines. ?>
+
+									
 									<div class="fat"><span class="underlined">Auto Fee & Fine<br>debits</span>, <span class="underlined">Reconciliation</span>,<br><span class="underlined">Gateway</span>, <span class="underlined">Sales & Cash Books</span></div>
 									
 									 
@@ -2285,7 +2288,7 @@ The technologist.
 									<div style="  font-size:26px; " class="fat">Librari</div>
 									<div class="fat">Librari.in</div>
 									
-									When in doubt <br>go to the library.
+									<?php // When in doubt <br>go to the library. ?>
 									
 									<div class="fat">
 										
@@ -2356,7 +2359,9 @@ The technologist.
 									<div class="fat">Managing Alumni</div>
 									
 									
-									Engage, connect, nurture and cultivate our alumni worth..
+									<?php 
+										// Engage, connect, nurture and cultivate our alumni worth..
+									?>
 									<div class="fat">
 										<span class="underlined">Social communications</span>, 
 										<span class="underlined">Tracing</span>,
@@ -2411,8 +2416,9 @@ The technologist.
 						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Communi&shy;cations</div>
-									 
-									Transparency and empowerment with real time communication..
+									
+									
+									<?php // Transparency and empowerment with real time communication.. ?>
 									
 									<div class="fat">
 										
@@ -4556,7 +4562,7 @@ The technologist.
 								<div class="row">
 								
 												
-									<div class=" col-3 col-lg-4  " > 
+									<div class=" col-3 col-lg-5 " > 
 											
 											<div class="row height-cube-row"> 
 										
@@ -4778,7 +4784,7 @@ The technologist.
 									
 									<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
 								
-										Cognitive bot answers all your queries
+										Framework : Scalable, secure, agile
 									
 									</div>
 									
@@ -4793,12 +4799,12 @@ The technologist.
 								 
 									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
 									
-										Empower your team and customers with our powerful cognitive bot, getting accurate answers, solving problems at pace and building resilience. Predictive analytics, 
+								   Our framework a legacy of 14 years, stood tall through treacherous waves of load, evolving technologies, changing business dynamics and...
 									
 									
-										<div class="invisible" style="display:none;" id="tech-readmore1text">
+										<div class="invisible" style="display:none;" id="tech-readmore3text">
 									
-											data curation, meaningful results and threat alarms give you advanced insights for a better business.  
+											 a trail of logical & pragmatic technical upgrades and advancements.   
 								
 										</div>
 									
@@ -4842,7 +4848,7 @@ The technologist.
 									</div>
 											
 											
-									<div id="tech-readmore1" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-red spacer f-slight p-2 " >
+									<div id="tech-readmore3" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-red spacer f-slight p-2 " >
 									
 										read more
 									
@@ -4873,7 +4879,7 @@ The technologist.
 								<div class="row">
 								
 												
-									<div class=" col-3 col-lg-4  " > 
+									<div class=" col-3 col-lg-5" > 
 											
 											<div class="row height-cube-row"> 
 										
@@ -4922,9 +4928,9 @@ The technologist.
 						
 						
 										 
-										<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+										<div class="lh-45 fat f-tech-heading col-3 col-lg-7 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
 									
-											AI powered for data science
+											Blockchain: trust & reliability for financial models
 										
 										</div>
 									
@@ -4938,8 +4944,10 @@ The technologist.
 									</div>
 								 
 									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
-										Converging your big data for creating machine learning models that can predict brand recognition, number of prospective students and... 
-									
+										 
+										 Our advanced solutions for creating distributed ledgers with blockchain help build immutable, verified and trustless use cases. 
+										 
+										 
 										<div class="invisible" style="display:none;" id="tech-readmore2text">
 										
 											 provide insights upon the quality screening of students. Recognizing  learning patterns & behavior of diverse learners and providing insights and approach for learning & pedagogy. 
@@ -5140,111 +5148,183 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
- 
- 
-<!----------------------------------------------------------------->
-<!----------------------------------------------------------------->
-<!------------------------parallelogram ----------------------------------------->
- 
- 
-
-			<style>
- 
-
-					.parallelogram {
-					width: 74px;
-					height: 155px;
-					transform: skew(0,-27deg);
-					background: #0000ff;
-
-
-					}
-
-
-
-					.height-row
-					{
-						height:250px;
-
-					}
-
-
-			</style>
-
- 
- 
-
-								<div class="row height-row" >
-
-
-
-
-									<div  class="col-1 ">
-
-
-									</div> <!-- end of col-1 -->
-
-
-									<div  class="col-1"  >
-
-
-
-										<div class="row">
-
-
-											<div  class="col-12 "  style="padding-top:30px; padding-left:15px;">
+			 
+			 
+			 
+				 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!------------------------parallelogram ----------------------------------------->
+				 
 	 
-												<div class="parallelogram" style="" >
+ 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
 
-												</div>
 
-											</div>
+
+
+
+						<div class="row">
+						
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+						 							
+							</div>
+							
+							<div class=" col-12 col-lg-10 col-md-12 col-sm-12 fat text-center text-black bg-white spacer f-slight f-heading" >
+						
+								Cyber Security: building resilience
+							
+							</div>
+							
+							<div class="d-none d-sm-block col-lg-1 col-md-1 col-sm-1 ">
+						 							
+							</div>
+							
+						</div>
+
+  
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+ 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+					<?php
+					
+							
+							echo $Separator122;
+					
+					
+					?>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+
+
+
+
+				<style>
+ 
+
+
+						.parallelogram {
+
+							width: 74px;
+							
+							height: 155px;
+							
+							transform: skew(0,-27deg);
+							/* 
+							background: #0000ff;
+							
+ */
+
+						}
+
+
+
+						.height-row
+						{
+							height:207px;
+
+						}
+
+
+
+
+						.heading-book
+						{
+
+
+							font-size:26px;
+							
+							font-weight: bold;
+							
+							font-family:Helvetica;
+							
+							line-height: 45px;
+							
+							letter-spacing: 0.2em;
+							
+
+						}
 
  
 
 
-										</div> <!-- end of row  -->
+				</style>
 
 
 
 
-									</div> <!-- end of col-1 -->
-								 
+
+
+	<div class="row">
+		 
+				 
+		<div class=" col-lg-6 col-md-1 col-sm-1 ">
+								
+
+				<div class="row height-row" style="margin-left:20px;">
 
 
 
-									<div class="col-1 ">
 
-										<div class="row height-row" >
-
-											<div class="col-8" >
-
-													<div class="row height-row">
+				<!-- beginning of book design -->
 
 
-														<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+					<div class="col-2"  >
 
-														</div>
 
-														<div class="col-1" >
+						<div class="row">
 
-														</div>
 
-														<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+							<div class="col-12 "  style="padding-top:30px; padding-left:15px;">
 
-														</div>
+								<div class="parallelogram bg-red">
 
-														<div class="col-1" >
+								</div>
 
-														</div>
+							</div>
 
-													<div class="col-1" style="background-color: blue; margin-top:11px; height: 155px;">
 
-													</div>
+						</div> <!-- end of row  -->
 
-													<div class="col-1" >
 
-													</div>
+
+
+					</div> <!-- end of col-1 -->
+
+
+
+
+								<div class="col-2 ">
+
+									<div class="row height-row" >
+
+										<div class="col-8" >
+
+											<div class="row height-row">
+
 
 													<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
 
@@ -5270,27 +5350,62 @@ The technologist.
 
 													</div>
 
-													</div> <!-- end of row -->
+													<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+												</div> <!-- end of row -->
 
 
 											</div> <!-- end of col-8 -->
 
 
-										<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
 
-										</div>
+												<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
 
-										<div class="col-1" >
+												</div>
 
-										</div>
 
-										<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+												<div class="col-1" >
 
-										</div>
+												</div>
 
-										<div class="col-1" >
 
-										</div>
+												<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+												</div>
+
+
+												<div class="col-1" >
+
+												</div>
+
+
+												<div  class="col-1 ">
+ 
+												</div> <!-- end of col-1 -->
+
+
 
 										</div> <!--end of row -->
 
@@ -5298,29 +5413,911 @@ The technologist.
 
 									</div>
 
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
 
 
 
-									<div class="col-7" >
+						<div class="col-3 heading-book" >
+						
+							Managed Security Services
+						 
+						</div>
 
-									</div>
+
+ 		 
+			</div>
+
+ 		 					
+
+ 		 					<div class="row" style="height: 44px;" >
+
+							</div>
+
+
+						<div class="row">			
+									
+
+							<div class="col-8 col-lg-2 lh-45 f-18 spacer f-slight" >
+										
+							</div>
+					
+					
+					
+							<div class="col-8 col-lg-8 lh-45 f-18 spacer f-slight" >
+								Threat management is of utmost importance before going online. We build resilience for recovery within 24 hours and strive proactively for engineering practices			
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
 
 
 
+
+					<?php
+					
+							
+							echo $Separator65;
+					
+					
+					?>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ---------------------------> 
+ 
+							
+											<div class="row">			
+											
+													<div id="cyber-readmore1" data-more="read more" class="cyber-readmore f-18 col-6 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight p-2 " >
+													
+														<div class="row">
+															<div class="col-3">
+															
+															
+																<div class="row" style=" margin-top: 8px; ">
+																	<div class="col-2" style="background-color: #00ff00; height: 33px;">
+
+																	</div>
+
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: blue; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: red; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	
+																</div>
+																	
+															</div> 
+													
+													
+															<div class="fat spacer f-slight col-9">read more</div>
+														
+														
+														</div>
+														
+														
+													</div>
+											</div>
+											
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ends ---------------------------> 
+ 
+											
+							</div>
+					
+										
+						</div>
+
+
+										
+		</div>
+
+
+
+			<!-- end of half -->
+
+
+ 
+		 
+		 
+		 
+		 
+		 
+		<div class=" col-lg-6 col-md-1 col-sm-1 ">
+								
+
+				<div class="row height-row" style="margin-left:20px;">
+
+
+			<!-- beginning of book design -->
+
+
+			<div  class="col-2"  >
+ 
+
+					<div class="row">
+
+
+						<div  class="col-12 "  style="padding-top:30px; padding-left:15px;">
+	 
+							<div class="parallelogram bg-green"  >
+
+							</div>
+
+						</div>
+ 
+
+
+					</div> <!-- end of row  -->
+ 
+
+
+			</div> <!-- end of col-1 -->
+			 
+
+
+
+					<div class="col-2">
+
+						<div class="row height-row" >
+
+								<div class="col-8" >
+
+									<div class="row height-row">
+
+
+										<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: blue; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+
+
+									</div> <!-- end of row -->
+
+
+								</div> <!-- end of col-8 -->
+
+
+								<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
 
 								</div>
 
 
+								<div class="col-1" >
+
+								</div>
+
+
+								<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+								</div>
+
+
+								<div class="col-1" >
+
+								</div>
+
+
+								<div  class="col-1 ">
+
+
+								</div> <!-- end of col-1 -->
+
+
+
+
+						</div> <!--end of row -->
+
+
+
+			</div>
+
+			<!-- end of book design -->
+
+
+
+
+						<div class="col-3 heading-book" >
+							Identity Services
+						</div>
+
+
+	</div>
+
+ 		 					<div class="row" style="height: 44px;" >
+
+							</div>
+
+
+						<div class="row">			
+									
+							<div class="col-8 col-lg-2 lh-45 f-18 spacer f-slight" >
+										
+							</div>
+					
+
+							<div class="col-8 col-lg-8 lh-45 f-18 spacer f-slight" >
+								
+								Identity governance is the most effective way to secure your application from digital risks. Define roles and monitor access enpowering your students and staff with
+						 		
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+					<?php
+					
+							
+							echo $Separator65;
+					
+					
+					?>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+							
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ---------------------------> 
+ 
+							
+											<div class="row">			
+											
+													<div id="cyber-readmore1" data-more="read more" class="cyber-readmore f-18 col-6 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight p-2 " >
+													
+														<div class="row">
+															<div class="col-3">
+															
+															
+																<div class="row" style=" margin-top: 8px; ">
+
+																	<div class="col-2" style="background-color: #00ff00; height: 33px;">
+
+																	</div>
+
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: blue; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: red; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	
+																</div>
+																	
+															</div> 
+													
+													
+															<div class="fat spacer f-slight col-9">read more</div>
+														
+														
+														</div>
+														
+														
+													</div>
+											</div>
+											
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ends ---------------------------> 
+ 
+											
+							</div>
+					
+										
+						</div>
+ 
+								 
+
+
+			</div>  
+
+	
+
+			<!-- end of half -->
+
+
+ 
+		 				 
+										
+		</div>
+
+
+
+			<!-- end of row -->
+
+    
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+					<?php
+					
+							
+							echo $Separator122;
+					
+					
+					?>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
 
 
 
 
 
+	<div class="row">
+		 
+				 
+		<div class=" col-lg-6 col-md-1 col-sm-1 ">
+								
+
+				<div class="row height-row" style="margin-left:20px;">
 
 
-								<!----------------------------------------------------------------->
-								<!----------------------------------------------------------------->
-								<!----------------------------------------------------------------->
+
+
+				<!-- beginning of book design -->
+
+
+					<div class="col-2"  >
+
+
+						<div class="row">
+
+
+							<div class="col-12 "  style="padding-top:30px; padding-left:15px;">
+
+								<div class="parallelogram bg-blue">
+
+								</div>
+
+							</div>
+
+
+						</div> <!-- end of row  -->
+
+
+
+
+					</div> <!-- end of col-1 -->
+
+
+
+
+								<div class="col-2 ">
+
+									<div class="row height-row" >
+
+										<div class="col-8" >
+
+											<div class="row height-row">
+
+
+													<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: blue; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+													<div class="col-1" >
+
+													</div>
+
+												</div> <!-- end of row -->
+
+
+											</div> <!-- end of col-8 -->
+
+
+
+												<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+												</div>
+
+
+												<div class="col-1" >
+
+												</div>
+
+
+												<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+												</div>
+
+
+												<div class="col-1" >
+
+												</div>
+
+
+												<div  class="col-1 ">
+ 
+												</div> <!-- end of col-1 -->
+
+
+
+										</div> <!--end of row -->
+
+
+
+									</div>
+
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+							<!-- end of book design -->
+
+
+
+						<div class="col-3 heading-book" >
+						
+							Cloud protection
+						 
+						</div>
+
+
+ 		 
+			</div>
+
+ 		 					<div class="row" style="height: 44px;" >
+
+							</div>
+
+
+						<div class="row">			
+									
+
+							<div class="col-8 col-lg-2 lh-45 f-18 spacer f-slight" >
+										
+							</div>
+					
+					
+					
+							<div class="col-8 col-lg-8 lh-45 f-18 spacer f-slight" >
+								Threat management is of utmost importance before going online. We build resilience for recovery within 24 hours and strive proactively for engineering practices	
+								
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+					<?php
+					
+							
+							echo $Separator65;
+					
+					
+					?>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ---------------------------> 
+ 
+							
+											<div class="row">			
+											
+													<div id="cyber-readmore1" data-more="read more" class="cyber-readmore f-18 col-6 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight p-2 " >
+													
+														<div class="row">
+															<div class="col-3">
+															
+															
+																<div class="row" style=" margin-top: 8px; ">
+
+																	<div class="col-2" style="background-color: #00ff00; height: 33px;">
+
+																	</div>
+
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: blue; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: red; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	
+																</div>
+																	
+															</div> 
+													
+													
+															<div class="fat spacer f-slight col-9">read more</div>
+														
+														
+														</div>
+														
+														
+													</div>
+											</div>
+											
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ends ---------------------------> 
+ 
+											
+											
+							</div>
+					
+										
+						</div>
+
+
+										
+		</div>
+
+
+
+			<!-- end of half -->
+
+
+ 
+		 
+		 
+		 
+		 
+		 
+		<div class=" col-lg-6 col-md-1 col-sm-1 ">
+								
+
+				<div class="row height-row" style="margin-left:20px;">
+
+
+			<!-- beginning of book design -->
+
+
+			<div  class="col-2"  >
+ 
+
+					<div class="row">
+
+
+						<div  class="col-12 "  style="padding-top:30px; padding-left:15px;">
+	 
+							<div class="parallelogram bg-red" >
+
+							</div>
+
+						</div>
+ 
+
+
+					</div> <!-- end of row  -->
+ 
+
+
+			</div> <!-- end of col-1 -->
+			 
+
+
+
+					<div class="col-2">
+
+						<div class="row height-row" >
+
+								<div class="col-8" >
+
+									<div class="row height-row">
+
+
+										<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: blue; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: red; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" style="background-color: #00ff00; margin-top:11px; height: 155px;">
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+										<div class="col-1" >
+
+										</div>
+
+
+
+									</div> <!-- end of row -->
+
+
+								</div> <!-- end of col-8 -->
+
+
+								<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+								</div>
+
+
+								<div class="col-1" >
+
+								</div>
+
+
+								<div class="col-1" style="background-color: white; margin-top:11px; height: 155px;">
+
+								</div>
+
+
+								<div class="col-1" >
+
+								</div>
+
+
+								<div  class="col-1 ">
+
+
+								</div> <!-- end of col-1 -->
+
+
+
+
+						</div> <!--end of row -->
+
+
+
+			</div>
+
+			<!-- end of book design -->
+
+
+
+
+						<div class="col-3 heading-book" >
+							Security assessment & Testing
+						</div>
+
+
+	</div>
+
+ 		 					<div class="row" style="height: 44px;" >
+
+							</div>
+
+						<div class="row">			
+									
+							<div class="col-8 col-lg-2 lh-45 f-18 spacer f-slight" >
+										
+							</div>
+					
+
+							<div class="col-8 col-lg-8 lh-45 f-18 spacer f-slight" >
+								
+								Identity governance is the most effective way to secure your application from digital risks. Define roles and monitor access enpowering your students and staff with
+						 
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+					<?php
+					
+							
+							echo $Separator65;
+					
+					
+					?>
+
+
  
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
@@ -5332,8 +6329,140 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ---------------------------> 
+ 
+							
+											<div class="row">			
+											
+													<div id="cyber-readmore1" data-more="read more" class="cyber-readmore f-18 col-6 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight p-2 " >
+													
+														<div class="row">
+															<div class="col-3">
+															
+															
+																<div class="row" style=" margin-top: 8px; ">
+
+																	<div class="col-2" style="background-color: #00ff00; height: 33px;">
+
+																	</div>
+
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: blue; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	<div class="col-2" style="background-color: red; height: 33px;">
+
+																	</div>
+ 
+																	<div class="col-1" >
+
+																	</div>
+ 
+
+																	
+																</div>
+																	
+															</div> 
+													
+													
+															<div class="fat spacer f-slight col-9">read more</div>
+														
+														
+														</div>
+														
+														
+													</div>
+											</div>
+											
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+				<!--------------------------read more ends ---------------------------> 
+ 
+											
+							</div>
+					
+										
+						</div>
+ 
+								 
+
+
+			</div>  
+
+	
+
+			<!-- end of half -->
+
+
+ 
+		 				 
+										
+		</div>
+
+
+			
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+ 
+
+
+
+
+					<?php
+					
+							
+							echo $Separator122;
+					
+					
+					?>
+
+
+ 
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
  
  
+
+
+
+
+
+
+
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+			<!-- end of row of Cyber Security -->
+
+    
+
+
+
+
+
 
  
 				<!----------------------------------------------------------------->
@@ -5362,16 +6491,14 @@ The technologist.
 	 
 	 
 			?>
-
-
-
+ 
 
 
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
 
-
+   
 
 					<div class="separator122"></div>
 					<div class="separator122"></div>
