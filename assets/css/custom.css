@@ -89,13 +89,7 @@
 			height : 136px;
 			
 		}
-		
-		.separator122
-		{
-		   
-			height : 122px;
-			
-		}
+		 
 		
 		.separator30
 		{
@@ -254,12 +248,45 @@
 			
 
 
+			.separator122
+			{
+			   
+				height : 100px;
+				
+			}
+
+			.separator127
+			{
+			   
+				height : 118px;
+				
+			}
 			.more {
 
 				font-size: 18px;
 				margin-top:30px; 
 				margin-bottom:20px; 
 
+			}
+			
+
+			.halfcookie-heading1 {
+
+				font-size: 26px;
+				
+			}
+			
+			.halfcookie-heading2 {
+
+				font-size: 18px;
+				/* font-style: italic; */
+				
+			}
+			
+			.halfcookie-heading3 {
+
+				font-size: 18px;
+				
 			}
 			
 
@@ -278,7 +305,7 @@
 			
 			.f-heading {
 
-				font-size: 30px; 
+				font-size: 36px; 
 
 			}
 			
@@ -354,6 +381,16 @@
 		@media (min-width:576px) {
 			
 			
+				
+			.separator122
+			{
+			   
+				height : 122px;
+				
+			}
+			
+			
+			
 			.f-menu  {
 				font-size : 3vw;
 			}	
@@ -382,7 +419,15 @@
 
 
 
-		@media (min-width:768px) {
+		@media (min-width:768px) {
+			.separator122
+			{
+			   
+				height : 122px;
+				
+			}
+
+
 			.f-menu  {
 				font-size : 4vw;
 			}
@@ -425,7 +470,13 @@
 
 
 
-		@media (min-width:992px) {
+		@media (min-width:992px) {
+			.separator122
+			{
+			   
+				height : 122px;
+				
+			}
 			.f-menu  {
 				font-size : 3vw;
 			}
@@ -466,6 +517,27 @@
 		}
 
 		@media (min-width:1200px) {
+			
+			
+			
+			.separator122
+			{
+			   
+				height : 122px;
+				
+			}
+			
+			
+			
+			.text-separator122
+			{
+			   
+				height : 82px;
+				
+			}
+			
+			
+			
 			.f-menu  {
 				font-size : 1.5vw;
 			}
@@ -481,7 +553,7 @@
 
 			.f-heading {
 
-				font-size: 4em; 
+				font-size: 48px; 
 
 			}
 			

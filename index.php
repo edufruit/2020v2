@@ -36,8 +36,65 @@
 	
 	
 	 <?php 
-	
-	
+
+
+
+		
+		function GetBlankDivCol($ColSizeXS, $ColSizeSM = 0, $ColSizeMD = 0, $ColSizeLG = 0, $ColSizeXLG = 0)
+		{
+			
+			
+			$Sizes['XS'] = array(0=>'d-none');
+			$Sizes['SM'] = array(0=>'d-sm-none');
+			$Sizes['MD'] = array(0=>'d-md-none');
+			$Sizes['LG'] = array(0=>'d-lg-none');
+			$Sizes['XLG'] = array(0=>'d-xlg-none');
+			
+			
+			for($colsize = 1; $colsize <= 12; $colsize++)
+			{
+							
+				$Sizes['XS'][$colsize] = 'col-'.$colsize;	
+				$Sizes['SM'][$colsize] = 'col-sm-'.$colsize;	
+				$Sizes['MD'][$colsize] = 'col-md-'.$colsize;	
+				$Sizes['LG'][$colsize] = 'col-lg-'.$colsize;	
+				$Sizes['XLG'][$colsize] = 'col-xlg-'.$colsize;	
+				
+			}
+			
+			
+			
+			$XS = $Sizes['XS'][$ColSizeXS];
+			$SM = $Sizes['SM'][$ColSizeSM];
+			$MD = $Sizes['MD'][$ColSizeMD];
+			$LG = $Sizes['LG'][$ColSizeLG];
+			$XLG = $Sizes['XLG'][$ColSizeXLG];
+			
+			
+			
+			if($ColSizeLG){
+				
+				$LG .= ' d-lg-block ';
+				
+			}
+			
+			if($ColSizeXS){
+				
+				$XS .= ' d-xs-block ';
+				
+			}
+			
+			
+			// return '<div class=" '.$XS.' d-sm-none d-md-none d-lg-none "></div>';
+			return '<div class=" '. $XS . ' ' . $SM . ' ' . $MD . ' ' . $LG . ' ' . $XLG . ' ' . ' "></div>';
+			
+			
+			
+		}
+		
+			
+			
+			
 		$Separator122 = '
 
 
@@ -47,7 +104,68 @@
 
 
 
-								<div class="separator122"></div>
+								<div class="row"><div class="col-12"><div class="separator122"></div></div></div>
+				  
+				  
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+			 
+
+					';
+	
+			
+			
+		$HalfSeparator122 = '
+
+
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+
+
+
+								<div class="row"><div class="col-6"><div class="separator122"></div></div></div>
+				  
+				  
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+			 
+
+					';
+	
+			
+		$TextSeparator122 = '
+
+
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+
+
+
+								<div class="text-separator122"></div>
+				  
+				  
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+			 
+
+					';
+	
+			
+		$Separator127 = '
+
+
+							<!----------------------------------------------------------------->
+							<!----------------------------------------------------------------->
+							<!-----------------------------------------------------------------> 
+
+
+
+								<div class="separator127"></div>
 				  
 				  
 							<!----------------------------------------------------------------->
@@ -301,7 +419,15 @@
 	
 	
 	 */
-	
+	 
+	 // pt-3 pt-lg-3
+	 
+			$RemedialHeadingClass = ' lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12  fat text-center text-sm-left text text-md-left text-lg-left text-black bg-white spacer f-slight ';
+			
+			
+			$RemedialTextClass = ' lh-45 f-18 col-10 col-lg-10 col-md-12 col-sm-12 text-center text-sm-left text-md-left text-lg-left text-black bg-white spacer f-slight ';
+						
+			
 	 ?>
 	
 	
@@ -569,9 +695,10 @@
 					
 						<div id="notonly" class="spacer text-center f-slight f-20 col-10">
 							
-							not only an ERP solution, not only an LMS,
-						
+							an edtech platform to build a "Virtual Institution",  
 						</div>
+					
+					
 					
 					
 					
@@ -614,7 +741,7 @@
 					
 						<div class="f-slight col-10   text-center spacer f-20">
 							
-							an <span class="fat">RGB</span> model for your institution
+							with the help of our thoroughly researched  <span class="fat">RGB</span> model for your institution
 							
 						</div>
 					
@@ -636,7 +763,7 @@
 
 
 
-					<div class="separator122"></div>
+					<?php echo $Separator122; ?>
 			
 
 
@@ -652,8 +779,9 @@
 					
 						<div class="f-slight col-10 col-lg-10 col-mdd-8  text-center spacer " style="font-size:18px; line-height:45px;">
 							
-								
-								We help education institutions sail through radical transformation, whilst technology acts as a major catalyst. Our proven expertise of over 14 years in technology, specific for education and implementation with institutions of eminence could be 
+														
+								We help education institutions sail through radical transformation, occuring while transforming into
+a Virtual Institution, whilst technology acts as a major catalyst. Our proven expertise of over 14 years in technology, specific for education and implementation with institutions of eminence could be 
 								experienced with our robust tech and business models.
 
 							
@@ -684,7 +812,7 @@
 
 
 
-					<div class="separator122"></div>
+					<?php echo $Separator122; ?>
 			
 <?php // col-10 col-lgg-6 col-mdd-8 ?>
 
@@ -964,7 +1092,7 @@
 										
 												<div class="invisible" style="display:none;" id="regressmoretext">
 							
-													Our technology does stimulate the institution to unlearn. Preparing to recreate procedures with our comprehensive set of tools in content, analytics, evaluation, assessments and competitive peer review for learning. Resulting in enhanced performance by breeding of optimal & effective methodologies amongst the stakeholders . We partner with the most credible & effective content teams to help the pupil swoop to an ascending ladder of learning. 
+													Our technology primarily stimulates the institution to unlearn. Further, preparing to recreate procedures with our comprehensive set of tools in content, analytics, evaluation, assessments and competitive peer review for learning. Resulting in enhanced performance by breeding of optimal & effective methodologies amongst the stakeholders . We partner with the most credible & effective content teams to help the pupil swoop to an ascending ladder of learning. 
 													
 												</div>
 													
@@ -1149,7 +1277,7 @@
 
 
 
-					<div class="separator122"></div>
+					<?php echo $Separator122; ?>
 				 
  
 	 
@@ -1255,8 +1383,10 @@
 										
 										<div class="f-slight spacer f-box1-content " >As an institution of learning, the objective is to cultivate and nurture. The primeval heirarchical
 										
-											<div class="invisible" style="display:none;"  id="geometricizemoretext">
+												<div class="invisible" style="display:none;"  id="geometricizemoretext">
+											
 												    approach for business management in the world of technology is arbitrary. The advent of Business 4.0 and Education 4.0 put imperative on personalization, agile strategy, leveraging ecosystem, exploiting value with insights in hidden data and deploying advanced technical models. Our technology model helps re-align your institution machinery in a geometrical equation for its components to perform in the contemporary art of leadership, decision making & change management. 
+												
 												</div>
 													
 										
@@ -1421,10 +1551,10 @@
 											
 											<div class="f-slight spacer f-box1-content " >
 											
-												A group of people can do wonders. Indigenous departments of diversity are a boon. Managing...
+												A group of people can do wonders. Indigenous departments of diversity are a boon. Managing them 
 											
 												<div class="invisible" style="display:none;" id="bridgemoretext">
-												   -ciently is the difference. Our applications help you manage the utmost important bridge to your institution the departments of Finance, Marketing, Sales, Counseling, Estate, HR, IT, Complaints, Audit, Strategy, Communications, Library, Placements, Alumni, Inventory, Hostels, Transport, Mess, Canteen. 
+												   efficiently is the key. Our applications help you manage the utmost important bridge to your institution in the departments of Finance, Marketing, Sales, Counseling, Estate, HR, IT, Complaints, Audit, Strategy, Communications, Library, Placements, Alumni, Inventory, Hostels, Transport, Mess, Canteen etc. 
 												</div>
 												
 												
@@ -1508,7 +1638,7 @@
 
 
 
-					<div class="separator122"></div>
+					<?php echo $Separator122; ?>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -1870,12 +2000,14 @@ The technologist.
 					
 						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
-									<div style="  font-size:26px; " class="fat">Learning</div>
-									<div class="fat">liberalise.in</div>
+					 
+									<div class="halfcookie-heading1 fat">Learning</div> 
+									
+									<div class="halfcookie-heading2 fat">liberalise.in</div>
 									
 									<?php // Digital pedagogy<br>stimulates cognition<br> & intuition.  ?>
 									
-									<div class="fat"><span class="underlined">Online Classes</span>, <span class="underlined">Live Q & A</span>, <span class="underlined">Mock Tests</span>, <span class="underlined">Analytics</span></div>	
+									<div  class="halfcookie-heading3 fat"><span class="underlined">Online Classes</span>, <span class="underlined">Live Q & A</span>, <span class="underlined">Mock Tests</span>, <span class="underlined">Analytics</span></div>	
 																		<div class="learningmore">
 										<div class="square bg-red"></div> more...
 									</div>
@@ -1956,11 +2088,11 @@ The technologist.
 					
 						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
-									<div style="  font-size:26px; " class="fat">Academics</div>
-									<div class="fat">academicbot.in</div>
+									<div class="halfcookie-heading1 fat">Academics</div>
+									<div class="halfcookie-heading2 fat">academicbot.in</div>
 									
 									<?php // A great environment<br> fosters great learning.  ?>
-									<div class="fat"><span class="underlined">Attendance</span>,<br><span class="underlined">Assessments</span>,<br><span class="underlined">Timetable</span>,<br><span class="underlined">Feedback</span>,<br><span class="underlined">Metrics</span></div>
+									<div  class="halfcookie-heading3 fat"><span class="underlined">Attendance</span>,<br><span class="underlined">Assessments</span>,<br><span class="underlined">Timetable</span>,<br><span class="underlined">Feedback</span>,<br><span class="underlined">Metrics</span></div>
 									
 										
 									<div class="academicsmore">
@@ -2020,14 +2152,13 @@ The technologist.
 					
 						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px;  margin-left: 10px; line-height:45px;">
 					 
+									<div class="halfcookie-heading1 fat">Admissions</div> 
 									
-									<div style="  font-size:26px; " class="fat">Admissions</div>
-									
-									<div class="fat">admissionbot<br>.com</div>
+									<div class="halfcookie-heading2 fat">admissionbot<br>.com</div>
 									
 									 
 									<?php // Cognitive bot for conversions <span class="underlined">Leads</span>, ?>
-									<div class="fat">
+									<div class="halfcookie-heading3 fat">
 									
 									<span class="underlined">Digital Marketing</span>,
 									<br>
@@ -2036,7 +2167,7 @@ The technologist.
 									
 									 
 									<div class="financemore circlemore">
-										<div class="square bg-green"></div> more...
+										<div class="square bg-blue"></div> more...
 									</div>
 									
 						</div>
@@ -2092,12 +2223,14 @@ The technologist.
 					
 						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
-									<div style="  font-size:26px; " class="fat">HR</div>
-									<div class="fat">evolutionary.in</div>
+					 
+									<div class="halfcookie-heading1 fat">HR</div> 
+									
+									<div class="halfcookie-heading2 fat">evolutionary.in</div>
 									
 									<?php // People are not data, they are more ?>
 									
-									<div class="fat">
+									<div class="halfcookie-heading3 fat">
 										
 										<span class="underlined">Performance</span>,
 										<span class="underlined">Leave</span>, 
@@ -2113,7 +2246,7 @@ The technologist.
 									
 										
 									<div class="academicsmore">
-										<div class="square bg-blue"></div> more...
+										<div class="square bg-red"></div> more...
 									</div>
 									
 							 		
@@ -2221,15 +2354,16 @@ The technologist.
 						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
 					 
 									
-									<div style="  font-size:26px; " class="fat">Finance</div>
+									<div class="halfcookie-heading1 fat">Finance</div> 
 									
-									<div class="fat">feeaccounts.com</div>
+									
+									<div  class="halfcookie-heading2 fat">feeaccounts.com</div>
 									
 									
 									<?php // Automated finance<br>routines. ?>
 
 									
-									<div class="fat"><span class="underlined">Auto Fee & Fine<br>debits</span>, <span class="underlined">Reconciliation</span>,<br><span class="underlined">Gateway</span>, <span class="underlined">Sales & Cash Books</span></div>
+									<div class="halfcookie-heading3 fat"><span class="underlined">Auto Fee & Fine debits</span>, <span class="underlined">Reconciliation</span>,<br><span class="underlined">Gateway</span>, <span class="underlined">Sales & Cash Books</span></div>
 									
 									 
 									<div class="financemore circlemore">
@@ -2334,7 +2468,7 @@ The technologist.
 
  
 
-					<div class="separator122"></div>
+					<?php echo $HalfSeparator122; ?>
 	  
 	  
 				<!----------------------------------------------------------------->
@@ -2411,13 +2545,27 @@ The technologist.
 					
 						<div class="d-none d-sm-block col-lg-1  col-mdd-3 ">
 						</div>
-						
+									
+						  
+
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+
+  
+					<div class="col-12 d-lg-none separator122"></div>
+	  
+	  
+				<!----------------------------------------------------------------->
+				<!----------------------------------------------------------------->
+				<!-----------------------------------------------------------------> 
+
+		
 					
 						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
 					 
 									<div style="  font-size:26px; " class="fat">Communi&shy;cations</div>
-									
-									
+								 
 									<?php // Transparency and empowerment with real time communication.. ?>
 									
 									<div class="fat">
@@ -2539,10 +2687,10 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px; margin-bottom: 122px;">
 					 
 									
-									<div style="  font-size:26px; " class="fat">Hostels & Transport</div>
+									<div style=" font-size:26px; " class="fat">Hostels & Transport</div>
 									 
 										<div class="">
 											
@@ -2559,7 +2707,7 @@ The technologist.
 						</div>
 					
  	
-						<div class="col-5 col-lg-2  col-mdd-3 ">
+						<div class="col-5 col-lg-2  col-mdd-3 " style="margin-bottom: 122px;">
 							
 															
 							<?php 
@@ -2594,7 +2742,7 @@ The technologist.
 						</div>
 						
 					
-						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-3 col-mdd-8 spacer text-right" style="font-size:18px; margin-right: 10px; line-height:45px; margin-bottom:122px;">
 					 
 									<div style="  font-size:26px; " class="fat">Inventory</div>
 									<div class="fat">Inventori.in</div>
@@ -2619,7 +2767,7 @@ The technologist.
 						</div>
 					
  	
-						<div class="col-5 col-lg-2  col-mdd-3 ">
+						<div class="col-5 col-lg-2  col-mdd-3 " style="margin-bottom:122px;">
 					 
 							
 							<div class=""> 
@@ -2659,14 +2807,6 @@ The technologist.
 
 
 
-				<?php
-				
-						
-						echo $Separator122;
-				
-				
-				?>
-
 
 
 
@@ -2679,7 +2819,7 @@ The technologist.
 						
 					
  	
-						<div class="col-5 col-lg-2  col-mdd-3 ">
+						<div class="col-5 col-lg-2  col-mdd-3 " style="margin-bottom:122px;">
 							
 															
 							<?php 
@@ -2710,7 +2850,7 @@ The technologist.
 					
 					 
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px; margin-bottom:122px;">
 					 
 									
 									<div style="  font-size:26px; " class="fat">Registrar Office</div>
@@ -2734,7 +2874,7 @@ The technologist.
 						</div>
 						
  	
-						<div class="col-5 col-lg-2  col-mdd-3 ">
+						<div class="col-5 col-lg-2  col-mdd-3 " style="margin-bottom:122px;">
 					 
 							
 							<div class=""> 
@@ -2753,7 +2893,7 @@ The technologist.
 					
 					
 					
-						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px;">
+						<div class="f-slight col-6 col-lg-2 col-mdd-8 spacer " style="font-size:18px; margin-left: 10px; line-height:45px; margin-bottom:122px;">
 					 
 									<div style="  font-size:26px; " class="fat">Custom Solutions</div> 
 									 
@@ -2798,16 +2938,6 @@ The technologist.
 				<!-----------------------------------------------------------------> 
  
 
-
-
-
-				<?php
-				
-						
-						echo $Separator122;
-				
-				
-				?>
 
 
  
@@ -3353,6 +3483,9 @@ The technologist.
 								<div class="row">
 								
 									
+									<div class=" col-3 d-lg-none d-md-none d-sm-none "></div>
+								
+									
 									<div style="padding-left: 15px;" class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
 								
 								
@@ -3380,15 +3513,57 @@ The technologist.
 									
 
 									</div>
+
+									<?php 
 									
-									<div class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
+
+										// <div class=" col-3 d-lg-none d-md-none d-sm-none "></div>
+										
+										// <div class=" col-2 d-lg-none d-md-none d-sm-none "></div>
+										
+									
+										echo GetBlankDivCol(3); 
+										
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									
+									<div class="<?php echo $RemedialHeadingClass; // class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-center text-sm-left text text-md-left text-lg-left text-black bg-white spacer f-slight ?>" >
 								
+								
+								<?php
+								
+																
+									$SeparatorRow['65'] = '<div class="row"><div class="col-12 d-lg-none">'.$Separator65.'</div></div>';
+																
+									$SeparatorRow['122'] = '<div class="row"><div class="col-12 d-lg-none">'.$Separator122.'</div></div>';
+											
+									$SeparatorRow['127'] = '<div class="row"><div class="col-12 d-lg-none">'.$Separator127.'</div></div>';
+									
+									
+									echo $SeparatorRow['65'];
+								
+								
+								?>
+ 
+				 
 										Analytics & strategy for outstanding e-learning experiences 
 									
 									</div>
 									
-										  
+										
+									<?php 
 									
+										// <div class=" col-2 d-lg-none d-md-none d-sm-none "></div>
+									  
+									
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									
+								
 									
 								</div>
 
@@ -3413,13 +3588,15 @@ The technologist.
 			
 
 								<div class="row">
-								
 									
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
-															
-									</div>
+									<?php 
 									
-									<div class="lh-45 f-18 col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  "  >		
+										echo GetBlankDivCol(1, 0, 0, 2); 
+										 
+									?>
+									
+								 
+									<div class=" <?php echo $RemedialTextClass; ?> "  >		
 
 									
 										Strategic planning for delivering courses through e-learning technologies require adoption of new policies, processes...
@@ -3432,7 +3609,12 @@ The technologist.
 									
 									</div>
 									  
+										
+									<?php 
 									
+										echo GetBlankDivCol(1); 
+										 
+									?>
 									
 								</div>
 
@@ -3459,23 +3641,34 @@ The technologist.
 
 
 								<div class="row">
+
+									<?php
+										
+										// <div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
+																
+										// </div>
+										
+										echo GetBlankDivCol(3, 0, 0, 3);
 								
-									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
-															
-									</div>
-									
-									<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
+									?>
 
-											<?php
-											
-													
+										<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
+
+												<?php											
+														
 													echo GetCardsReadMore('cube-red', 'remedialservice1');
-											
-											
-											?>
+																							
+												?>
 
-									</div>
-									
+										</div>
+										
+									<?php 
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
+
 								</div>
 									
 									
@@ -3490,11 +3683,24 @@ The technologist.
 							  
   	 
 							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
-						 			
+						 				
+									
+								<?php 
+								
+									// echo '<div class="row"><div class="col-12 d-lg-none">'.$Separator122.'</div></div>'; 
+									echo $SeparatorRow['127']; 
+									 
+								?>
+
 
 								<div class="row">
 										
+									
+									<?php 
+									
+										echo GetBlankDivCol(3); 
 										 
+									?>
 
 									<div style="padding-left: 15px;"  class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
 									
@@ -3509,11 +3715,38 @@ The technologist.
 									
 									
 									
-									<div class="lh-45  f-remedial-heading col-6 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
-								
+									<?php 
+									
+										echo GetBlankDivCol(3); 
+										
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									
+									<div class="<?php echo $RemedialHeadingClass; ?> " > 
+										
+										<?php
+										 
+											
+											echo $SeparatorRow['65'];
+										
+										
+										?>
+		 
+				 
 										Evolve academics with actionable data insights
 									
 									</div>
+									
+									
+									
+									<?php 
+									
+										echo GetBlankDivCol(2); 
+										
+									?>
+
 									
 							
 								</div> 
@@ -3542,12 +3775,16 @@ The technologist.
 								<div class="row">
 									
 									
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
-															
-									</div>
+									<?php 
 									
-									
-									<div class="lh-45 f-18 col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  "  >						
+										echo GetBlankDivCol(1, 0, 0, 2); 
+										 
+									?>
+			
+			
+								 
+									<div class=" <?php echo $RemedialTextClass; ?> "  >		
+			 		
 											
 											We bring in the right perspective to drive efficacy of your implementation of technologies. We align the objective and ...
 											<div class="invisible" style="display:none;" id="remedialservice2text">
@@ -3557,7 +3794,13 @@ The technologist.
 									
 									</div>
 									
-									 
+									 		
+									<?php 
+									
+										echo GetBlankDivCol(1); 
+										 
+									?>
+									
 							
 								</div>
 		
@@ -3583,11 +3826,13 @@ The technologist.
 
 
 								<div class="row">
+									
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
 								
-									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
-															
-									</div>
-										
+									?>
+
 										
 									<div class=" col-6 col-lg-4 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
 										
@@ -3600,7 +3845,13 @@ The technologist.
 											?>
 
 									</div>
-									 
+									 	
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
 			
 							
 								</div>
@@ -3656,7 +3907,14 @@ The technologist.
 						 			
 
 								<div class="row">
-								
+									
+									
+									<?php 
+									
+										echo GetBlankDivCol(3); 
+										 
+									?>
+
 									
 									<div style="padding-left: 15px;" class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
 								
@@ -3672,13 +3930,38 @@ The technologist.
 
 									</div>
 									
-									<div class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " > 
+									
+									<?php 
+									
+										echo GetBlankDivCol(3); 
 										
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									<div class="<?php echo $RemedialHeadingClass; ?>"> 
+												
+												
+										<?php
+										 
+											echo $SeparatorRow['65']; 
+										
+										?>
+		 
+						 
 										Competency based education efficacy management
 									
 									</div>
 									
 										  
+									
+									
+									<?php 
+									
+										echo GetBlankDivCol(2); 
+										
+									?>
+
 									
 									
 								</div>
@@ -3705,15 +3988,17 @@ The technologist.
 
 								<div class="row">
 								
+								
+									<?php 
 									
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
-															
-									</div>
-									
-									
-									<div class=" col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
-										
-										
+										echo GetBlankDivCol(1, 0, 0, 2); 
+										 
+									?>
+								 						
+								 
+									<div class=" <?php echo $RemedialTextClass; ?> "  >		
+			 		
+				
 										Delivering CBE requires radical & structural reforms in the environment and ecosystem of your organization...
 										
 										<div class="invisible" style="display:none;" id="remedialservice3text">
@@ -3724,6 +4009,12 @@ The technologist.
 										
 									</div>
 									  
+											
+									<?php 
+									
+										echo GetBlankDivCol(1); 
+										 
+									?>
 									
 									
 								</div>
@@ -3754,10 +4045,13 @@ The technologist.
 
 								<div class="row">
 								
-									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
-															
-									</div>
-									
+										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
 									<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
 
 											<?php
@@ -3769,7 +4063,15 @@ The technologist.
 											?>
 
 									</div>
-									
+										
+										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
 								</div>
 									
 									
@@ -3785,10 +4087,26 @@ The technologist.
   	 
 							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
 						 			
+		 			
+									
+								<?php 
+								
+									// echo '<div class="row"><div class="col-12 d-lg-none">'.$Separator122.'</div></div>'; 
+									echo $SeparatorRow['127']; 
+									 
+								?>
+
 
 								<div class="row">
 										
+								
+									
+									<?php 
+									
+										echo GetBlankDivCol(3); 
 										 
+									?>
+
 
 									<div style="padding-left: 15px;"  class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
 									
@@ -3801,15 +4119,37 @@ The technologist.
 										
 									</div>
 									
+										
 									
+									<?php 
 									
-									<div class="lh-45 f-remedial-heading col-6 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
-								  
+										echo GetBlankDivCol(3); 
+										
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									<div class="<?php echo $RemedialHeadingClass; ?>"> 
+													
+										<?php
+										 
+											echo $SeparatorRow['65']; 
+										
+										?>
+		 
 										Digital first marketing & strategies for enrollments
 									
 									</div>
 									
 							
+									
+									<?php 
+									
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									
 								</div> 
 		
 
@@ -3836,13 +4176,18 @@ The technologist.
 								<div class="row">
 									
 									
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
-															
-									</div>
+									<?php 
+									
+										echo GetBlankDivCol(1, 0, 0, 2); 
+										 
+									?>
 									
 									
-									<div class=" col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">	
-					
+						
+								 
+									<div class=" <?php echo $RemedialTextClass; ?> ">		
+			 		
+								
 											
 											An enormous market potential, an equivalent competitive streak & altruistic ideals riding on an aggresive marketing and 
 											
@@ -3855,7 +4200,13 @@ The technologist.
 									 
 									</div>
 									
-									 
+									 		
+									<?php 
+									
+										echo GetBlankDivCol(1); 
+										 
+									?>
+									
 							
 								</div>
 
@@ -3884,10 +4235,14 @@ The technologist.
 
 								<div class="row">
 								
-									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
-															
-									</div>
 										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
 										
 									<div class=" col-6 col-lg-4 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
 										
@@ -3902,6 +4257,14 @@ The technologist.
 									</div>
 									 
 			
+										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
 							
 								</div>
 
@@ -3961,7 +4324,14 @@ The technologist.
 						 			
 
 								<div class="row">
-								
+									
+									
+									<?php 
+									
+										echo GetBlankDivCol(3); 
+										 
+									?>
+
 									
 									<div style="padding-left: 15px;" class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
 								
@@ -3990,14 +4360,38 @@ The technologist.
 									
 
 									</div>
+										
 									
-									<div class="lh-45 f-remedial-heading col-8 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
-								
+									<?php 
+									
+										echo GetBlankDivCol(3); 
+										
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									<div class="<?php echo $RemedialHeadingClass; ?>"> 
+										
+											
+										<?php
+										 
+											echo $SeparatorRow['65']; 
+										
+										?>
+		 
 										Student attrition research to student retention & engagement
 									
 									</div>
 									
 										  
+									
+									<?php 
+									
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									
 									
 									
 								</div>
@@ -4025,17 +4419,33 @@ The technologist.
 								<div class="row">
 								
 									
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
-															
+									<?php 
+									
+										echo GetBlankDivCol(1, 0, 0, 2); 
+										 
+									?>
+									
+									
+									
+									<div class=" <?php echo $RemedialTextClass; ?> ">		
+			 		
+										Majority of institutions have to face drastic student attrition rates. The inability of student to identify the environment they are 
+										
+											<div class="invisible" style="display:none;" id="remedialservice5text">
+												
+												dealing with, failed motivation, isolation, pace, inability to cope, bleak ideas for career prospects & financial health are some of the factors  responsible for attrition. Our dashboard, tools and tech are aligned to provide you with analytical and predictive reports to identify gap in subject competency, lack of interest, proactiveness, engagement, conseling, outreach etc. during data based decisions to improve student retention. 
+											
+											</div>
+									
 									</div>
 									
-									<div class=" col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
-										Majority of institutions have to face drastic student attrition rates. The inability of student to identify the environment they are 
-											<div class="invisible" style="display:none;" id="remedialservice5text">
-												dealing with, failed motivation, isolation, pace, inability to cope, bleak ideas for career prospects & financial health are some of the factors  responsible for attrition. Our dashboard, tools and tech are aligned to provide you with analytical and predictive reports to identify gap in subject competency, lack of interest, proactiveness, engagement, conseling, outreach etc. during data based decisions to improve student retention. 
-											</div>
-									</div>
 									  
+											
+									<?php 
+									
+										echo GetBlankDivCol(1); 
+										 
+									?>
 									
 									
 								</div>
@@ -4064,10 +4474,15 @@ The technologist.
 
 								<div class="row">
 								
-									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
-															
-									</div>
-									
+								
+										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
 									<div class=" col-6 col-lg-9 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">		 
 
 											<?php
@@ -4080,6 +4495,14 @@ The technologist.
 
 									</div>
 									
+										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
 								</div>
 									
 									
@@ -4094,11 +4517,27 @@ The technologist.
 							  
   	 
 							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
-						 			
+						 					
+									
+								<?php 
+								
+									// echo '<div class="row"><div class="col-12 d-lg-none">'.$Separator122.'</div></div>'; 
+									echo $SeparatorRow['127']; 
+									 
+								?>
+
+
 
 								<div class="row">
 										
+											
+									
+									<?php 
+									
+										echo GetBlankDivCol(3); 
 										 
+									?>
+ 
 
 									<div style="padding-left: 15px;"  class=" col-6 col-lg-4 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight f- " >
 									
@@ -4111,15 +4550,37 @@ The technologist.
 										
 									</div>
 									
+										
 									
+									<?php 
 									
-									<div class="  lh-45 f-remedial-heading col-6 col-lg-8 col-md-12 col-sm-12 fat text-left text-black bg-white spacer f-slight " >
-								
+										echo GetBlankDivCol(3); 
+										
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									<div class="<?php echo $RemedialHeadingClass; ?>"> 
+													
+										<?php
+										 
+											echo $SeparatorRow['65']; 
+										
+										?>
+		 
 										HR augmentation, training & certfications
 									
 									</div>
 									
 							
+									
+									<?php 
+									
+										echo GetBlankDivCol(2); 
+										
+									?>
+
+									
 								</div> 
 		
 
@@ -4145,13 +4606,17 @@ The technologist.
 			
 								<div class="row">
 									
+								
+									<?php 
 									
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
-															
-									</div>
+										echo GetBlankDivCol(1, 0, 0, 2); 
+										 
+									?>
 									
 									
-									<div class="f-18 lh-45 col-6 col-lg-10 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight " >	
+									
+									<div class=" <?php echo $RemedialTextClass; ?> ">		
+			 		
 					
 					
 											Our services for training and modules for holistic development of faculty and staff help your personnel achieve tech oriented...
@@ -4162,7 +4627,13 @@ The technologist.
 											
 									</div>
 									
-									 
+									 		
+									<?php 
+									
+										echo GetBlankDivCol(1); 
+										 
+									?>
+									
 							
 								</div>
 
@@ -4191,10 +4662,15 @@ The technologist.
 
 								<div class="row">
 								
-									<div class="d-none d-sm-block col-lg-3 col-md-1 col-sm-1 ">
-															
-									</div>
+									
 										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+ 		
 										
 									<div class=" col-6 col-lg-4 col-md-12 col-sm-12 text-left text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">						
 										
@@ -4208,6 +4684,14 @@ The technologist.
 
 									</div>
 									 
+										
+									<?php 
+
+										echo GetBlankDivCol(3, 0, 0, 3);
+								
+									?>
+
+
 			
 							
 								</div>
@@ -4234,37 +4718,18 @@ The technologist.
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
  
+	 
+	  
+	  
+					<?php
+					
+							
+							echo $Separator127;
+					
+					
+					?>
 
-
-
-
-				<?php
-				
-						
-						echo $Separator122;
-				
-				
-				?>
- 
- 
-
-  
-				<!----------------------------------------------------------------->
-				<!----------------------------------------------------------------->
-				<!-----------------------------------------------------------------> 
-  
-  
-  
-  
-				<?php
-				
-						
-						echo $Separator122;
-				
-				
-				?>
-
- 
+	 
 
  
 				<!----------------------------------------------------------------->
@@ -4307,7 +4772,7 @@ The technologist.
 				<?php
 				
 						
-						echo $Separator122;
+						echo $TextSeparator122;
 				
 				
 				?>
