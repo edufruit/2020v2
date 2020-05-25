@@ -1,0 +1,66 @@
+
+
+
+
+		<style> 
+		
+		
+				#chalo {
+				  
+				  animation-name: example;
+				  animation-duration: 2s;
+				  animation-play-state: paused;
+ 
+				}
+
+
+		
+
+		
+				#chalo1 {
+				  
+				  animation-name: example1;
+				  animation-duration: 2s;
+				  animation-play-state: paused;
+
+				}
+
+
+		
+
+
+			<?php
+  // animation-delay: 5s;
+				/* 
+				#regress:hover{
+					   
+					#chalo {
+					 
+					  animation-play-state: running;
+					}
+				}
+					// 25%  {   left: 0px; top:-750px;}
+					// 50%  {   left: 0px; top:-550px;}
+					// 75%  {   left: 0px; top:-275px;} 
+				*/
+
+			?>
+				  
+		  
+		  
+		@keyframes example {
+		  0%   { right: -400px; height:110px; top:-1100px;  } 
+		  50%   { background-color:pink; height:150px; opacity:0.2; } 
+		  75% {  right:-300px; height:200px; top: 0px;}
+		  100% {  right:0px; top:0px; height:100%;}
+		}
+
+		@keyframes example1 {
+		  0%   { right: -400px;   top:-1100px; } 
+		  50%   { background-color:pink;   opacity:0.2; } 
+		  75% {  right:-300px;  top: 0px;}
+		  100% {  right:0px; top:0px; height:100%;}
+		}
+
+</style> 
+
