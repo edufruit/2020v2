@@ -472,7 +472,8 @@
 				 
 				 
 					<div class="menu-icon-box">
-												<img style="margin-right:10px; " src="assets/images/hamburger-menu.jpg">			
+						
+						<img style="margin-right:10px; " src="assets/images/hamburger-menu.jpg">			
 						  
 						<div class="burger-text f-menu spacer f-slight fat" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
 
@@ -1978,14 +1979,20 @@ The technologist.
 								
 								
 								$radius = 217;
-								$diameter = 217 * 2;
-								/* width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?> *//* 
-								<svg  width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?>"> *//* <svg viewBox="0 0 <?php echo $radius; ?> <?php echo $diameter; ?>"> */
+								$diameter = 217 * 2;
+
+
+								/* width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?> */
+/* 
+								<svg  width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?>"> */
+/* <svg viewBox="0 0 <?php echo $radius; ?> <?php echo $diameter; ?>"> */
 							?>
 							
 							
 							
-							<div class=""> 
+							<div class=""> 
+
+
 								 <svg  preserveAspectRatio="xMidYMid meet" viewBox="0 0 190 <?php echo $diameter; ?>">
 									<circle r="<?php echo $radius; ?>" cx="<?php echo $radius; ?>" cy="<?php echo $radius; ?>" fill="red" />
 								</svg>   
@@ -2008,7 +2015,8 @@ The technologist.
 									<?php // Digital pedagogy<br>stimulates cognition<br> & intuition.  ?>
 									
 									<div  class="halfcookie-heading3 fat"><span class="underlined">Online Classes</span>, <span class="underlined">Live Q & A</span>, <span class="underlined">Mock Tests</span>, <span class="underlined">Analytics</span></div>	
-																		<div class="learningmore">
+									
+									<div class="learningmore">
 										<div class="square bg-red"></div> more...
 									</div>
 									
@@ -2066,14 +2074,20 @@ The technologist.
 								
 								
 								$radius = 217;
-								$diameter = 217 * 2;
-								/* width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?> *//* 
-								<svg  width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?>"> *//* <svg viewBox="0 0 <?php echo $radius; ?> <?php echo $diameter; ?>"> */
+								$diameter = 217 * 2;
+
+
+								/* width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?> */
+/* 
+								<svg  width="<?php echo $radius; ?>" height="<?php echo $radius * 2; ?>"> */
+/* <svg viewBox="0 0 <?php echo $radius; ?> <?php echo $diameter; ?>"> */
 							?>
 							
 							
 							
-							<div class=""> 
+							<div class=""> 
+
+
 								 <svg preserveAspectRatio="xMidYMid meet" viewBox="0 0 190 <?php echo $diameter; ?>">
 									<circle r="<?php echo $radius; ?>" cx="<?php echo $radius; ?>" cy="<?php echo $radius; ?>" fill="#00FF00" />
 								</svg>   
@@ -2091,7 +2105,8 @@ The technologist.
 									<div class="halfcookie-heading1 fat">Academics</div>
 									<div class="halfcookie-heading2 fat">academicbot.in</div>
 									
-									<?php // A great environment<br> fosters great learning.  ?>
+									<?php // A great environment<br> fosters great learning.  ?>
+
 									<div  class="halfcookie-heading3 fat"><span class="underlined">Attendance</span>,<br><span class="underlined">Assessments</span>,<br><span class="underlined">Timetable</span>,<br><span class="underlined">Feedback</span>,<br><span class="underlined">Metrics</span></div>
 									
 										
@@ -3005,10 +3020,11 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight" style="font-size:18px; line-height:45px;">
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight lh-45 f-18 " style="margin-bottom : 65px;">
 														
 								Comprehensive evaluation with accreditation agencies or compliance readiness scrutiny. Our applications define the journey and analytics for regular monitoring and tracking of any subside in the institution. Our application works a breeze for 
-								institutions articulating standardization models as their culture to achieve excellence. We have worked with institutions of excellence to facilitiate the process of compliance and accreditation for the following agencies..							
+								institutions articulating standardization models as their culture to achieve excellence. We have worked with institutions of excellence to facilitiate the process of compliance and accreditation for the following agencies..	
+						
 							</div>
 							
 							<div class="col-1  col-lg-1 col-md-1 col-sm-1 ">
@@ -3016,6 +3032,353 @@ The technologist.
 							</div>
 							
 						</div>
+
+
+
+
+
+
+
+							<div class="row"> 
+							
+							
+							
+		<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo1.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											NAAC 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+	
+	
+	
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo2.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+										<div class="col-12 text-center fat"> 
+
+											NBA
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+										
+										
+										
+			<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo3.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12  text-center fat"> 
+											AICTE 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+	
+	
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo4.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											CBSE 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+	
+	
+	
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo5.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											CISCE
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+										
+										
+										
+			<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo6.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											MHRD 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+							
+							</div> <!-- end of row--> 
+
+
+
+
+
+							<div class="row"> 
+							
+							
+							
+		<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo7.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											NCTE 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+	
+	
+	
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo8.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+										<div class="col-12 text-center fat"> 
+
+											MCI
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+										
+										
+										
+			<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo9.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12  text-center fat"> 
+											DCI 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+	
+	
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo10.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											INC 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+	
+	
+	
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo11.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											PCI
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+										
+										
+										
+			<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo12.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											BTE 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+							
+							</div> <!-- end of row--> 
+
+
+
+
+
+							<div class="row"> 
+							
+							 
+
+
+
+
+	<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo13.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											 UGC
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+										
+										
+										
+			<!-- --------------------------------------------------------------------------------------------- --> 
+								<div class="col-4 col-lg-2" style="margin-bottom:65px;">
+
+									<div class="row"> 
+										<div class="col-12"> 
+											<img class="img-fluid" src="assets/images/logos/logo14.jpg" /> 
+											
+										</div> <!-- end of col-12 inside col-2 carrying image -->
+
+										<div class="col-12 text-center fat"> 
+											COA 
+										</div> <!-- end of col-12 inside col-2 carrying name of image --> 
+										
+																		
+										</div> <!--end of row for col-12 inside col-2 --> 
+										
+										</div> <!-- end of col-2 --> 
+										
+	<!-- --------------------------------------------------------------------------------------------- --> 
+										
+							
+							</div> <!-- end of row--> 
+
+
+
+
 
 
 
@@ -3115,7 +3478,8 @@ The technologist.
 							
 							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight" style="font-size:18px; line-height:45px;">
 														
-								Various citations and in our experience majority of LMS, ERP & learning technologies implementation service requirement, do not occur in technological complexity, standardization, compatibility etc., but in organizational and personnel centric issues. Our subject expert consultant services act as the guiding force. 						
+								Various citations and in our experience majority of LMS, ERP & learning technologies implementation service requirement, do not occur in technological complexity, standardization, compatibility etc., but in organizational and personnel centric issues. Our subject expert consultant services act as the guiding force. 
+						
 							</div>
 							
 							<div class="col-1  col-lg-1 col-md-1 col-sm-1 ">
@@ -3156,8 +3520,10 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight fat f-26 lh-45"  >
-								Inscribing problem areas
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12 text-center text-black bg-white spacer f-slight fat f-26 lh-45"  >
+
+								Inscribing problem areas
+
 							</div>
 							
 							<div class="col-1  col-lg-1 col-md-1 col-sm-1 ">
@@ -3198,7 +3564,8 @@ The technologist.
 						 							
 							</div>
 								
-							<div class=" col-10 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">
+							<div class=" col-10 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight  " style="font-size:18px; line-height:45px;">
+
 									
 								<div class="col-12 col-lg-12 col-md-12 col-sm-12">
 									Top risk factors for failure of implementation of education technologies, ERP 
@@ -3211,16 +3578,19 @@ The technologist.
 							</div>
 													
 						</div>
-															
+								
+							
 
 						<div class="row">
-														<div class="col-2 col-lg-2 col-md-1 col-sm-1 ">
+							
+							<div class="col-2 col-lg-2 col-md-1 col-sm-1 ">
 						 							
 							</div>
 							
 							
 							<div class="f-18 f-slight spacer lh-45 col-10 col-lg-10 col-md-12 col-sm-12 ">
-																<ol style="list-style-type: lower-alpha;">
+								
+								<ol style="list-style-type: lower-alpha;">
 									<li>organizational culture,</li>
 									<li>incompatible business processes</li>
 									<li>composition of project team members</li>
@@ -3232,7 +3602,8 @@ The technologist.
 									<li>failure to redesign business processes</li>
 									<li>misunderstanding of change requirements</li>
 									<li>resistance to change.</li>
-								</ol>
+								</ol>
+
 
 
 							</div>
@@ -3363,23 +3734,33 @@ The technologist.
  
  
  
-	<style>            
+	<style>    
+
+
+        
 				.box{
 						width: 98px;
 						height: 108px;
 						/* opacity: 1;
 						position: absolute;
 						top: 7px;
-						left: 7px;  */
+						left: 7px;  */
+
 						margin-top: 7px;
 						margin-left: 7px;
 						margin-bottom: 20px;
 
-				}      
-				.stack-content{
-										/*   flex: 0 0 50px; */
+				}      
 
-				}     
+
+				.stack-content{
+					
+					/*   flex: 0 0 50px; */
+
+				}     
+
+
+
 				.rmbox{
 				width: 164px;
 				height:100%;
@@ -3399,8 +3780,11 @@ The technologist.
 					left: 7px; 
 			display: flex;
 					justify-content: center;
-					align-items: center;			
-				}
+					align-items: center;
+			
+				}
+
+
 				.cube-red
 				{
 					background: #ffffff;
@@ -3408,7 +3792,8 @@ The technologist.
 					border: 3px solid red;
 				} 
 	  
-
+
+
 				.cube-green
 				{
 					background: #ffffff;
@@ -3416,7 +3801,8 @@ The technologist.
 					border: 3px solid #00ff00;
 				} 
 	  
-	  
+	  
+
 				.cube-blue
 				{
 					background: #ffffff;
@@ -3473,13 +3859,18 @@ The technologist.
 							
 							 
 								
-							?>
+							?>
+
+
+
+
 						<div class="row">
 						
 							 
 								 
 							<div class="col-12 col-lg-5 col-md-6 col-sm-6">
-						 			
+						 			
+
 								<div class="row">
 								
 									
@@ -3602,7 +3993,8 @@ The technologist.
 										Strategic planning for delivering courses through e-learning technologies require adoption of new policies, processes...
 										 
 										
-											<div class="invisible" style="display:none;" id="remedialservice1text">
+											<div class="invisible" style="display:none;" id="remedialservice1text">
+
 												 and culture. We provide you with a complete roadmap, strategy, analytical ability, devising a framework and holistic approach  towards creating unmatched e-learning experiences. 
 
 											</div>
@@ -3662,7 +4054,8 @@ The technologist.
 
 										</div>
 										
-									<?php 
+									<?php 
+
 										echo GetBlankDivCol(3, 0, 0, 3);
 								
 									?>
@@ -3786,7 +4179,8 @@ The technologist.
 									<div class=" <?php echo $RemedialTextClass; ?> "  >		
 			 		
 											
-											We bring in the right perspective to drive efficacy of your implementation of technologies. We align the objective and ...
+											We bring in the right perspective to drive efficacy of your implementation of technologies. We align the objective and ...
+
 											<div class="invisible" style="display:none;" id="remedialservice2text">
 											  do goal setting to derive actionable data, dig insights  and setup framework to assimilate information. As a result you have predictable insights and analytics to act and evolve your stakeholders. 
 
@@ -4747,7 +5141,7 @@ The technologist.
 						 							
 							</div>
 							
-							<div class=" col-12 col-lg-10 col-md-12 col-sm-12 fat text-center text-black bg-white spacer f-slight f-heading" >
+							<div style="margin-bottom:65px; " class=" col-12 col-lg-10 col-md-12 col-sm-12 fat text-center text-black bg-white spacer f-slight f-heading" >
 						
 								Technologies & Architecture
 							
@@ -4852,22 +5246,17 @@ The technologist.
  
  
  
-									<style> 
-								
-							       
-											
-											
-											
-											    
+									<style>  
 													
 													
 												.height-cube-row 
 												{
+												
 													height:61px;
-													
+
 												}
-												  
-	
+
+
 									</style> 
  
 							
@@ -4884,7 +5273,10 @@ The technologist.
 								 
 													 
 
-									<div class="col-2 col-lg-5" > 
+									<div class="col-2 d-lg-none" > 
+									</div>
+									
+									<div class="col-6 col-lg-5" style="margin-top:65px; "  > 
 									
 									
 										<div class="row height-cube-row"> 
@@ -4932,20 +5324,27 @@ The technologist.
 									
 									</div>
 									
-									<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									
+									
+									<div class="col-2 d-lg-none" > 
+									</div>
+									
+									<div style="margin-top:65px; "  class="lh-45 fat f-tech-heading col-12 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left">
 								
 										Cognitive bot answers all your queries
 									
 									</div>
 									
-								</div>
+								</div>
+
+
 								<div class="row">
 								
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+									<div class="col-2 col-lg-2 col-md-1 col-sm-1 ">
 															
 									</div>
 								 
-									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									<div style="margin-top:65px; "  class="f-18 lh-45 col-8 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left" >
 									
 										Empower your team and customers with our powerful cognitive bot, getting accurate answers, solving problems at pace and building resilience. Predictive analytics, 
 									
@@ -4988,7 +5387,7 @@ The technologist.
 				 
 				 
 				 
-								<div class="row">
+								<div class="row" >
 								
 												
 									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
@@ -5021,13 +5420,13 @@ The technologist.
 								  
 								  
 								  
-							<div class=" col-lg-5 col-md-1 col-sm-1 ">
+							<div class="col-12 col-lg-5 col-md-1 col-sm-1 ">
 								
 
 								<div class="row">
 								
 												
-									<div class=" col-3 col-lg-5 " > 
+									<div class=" col-6 col-lg-5 " > 
 											
 											<div class="row height-cube-row"> 
 										
@@ -5082,7 +5481,9 @@ The technologist.
 										
 										</div>
 									
-									</div>
+									</div>
+
+
 								<div class="row">
 								
 									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
@@ -5691,7 +6092,8 @@ The technologist.
  
 
 
-						.parallelogram {
+						.parallelogram {
+
 
 							width: 74px;
 							
@@ -5708,7 +6110,8 @@ The technologist.
 
 
 						.height-row
-						{
+						{
+
 							height:207px;
 
 						}
@@ -5915,7 +6318,9 @@ The technologist.
 					
 					
 							<div class="col-8 col-lg-8 lh-45 f-18 spacer f-slight" >
-								Threat management is of utmost importance before going online. We build resilience for recovery within 24 hours and strive proactively for engineering practices			
+								Threat management is of utmost importance before going online. We build resilience for recovery within 24 hours and strive proactively for engineering practices	
+
+		
 				<!----------------------------------------------------------------->
 				<!----------------------------------------------------------------->
 				<!-----------------------------------------------------------------> 
@@ -5948,7 +6353,8 @@ The technologist.
 															<div class="col-3">
 															
 															
-																<div class="row" style=" margin-top: 8px; ">
+																<div class="row" style=" margin-top: 8px; ">
+
 																	<div class="col-2" style="background-color: #00ff00; height: 33px;">
 
 																	</div>
@@ -7030,6 +7436,8 @@ The technologist.
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/feather.js"></script>
-    <script src="assets/js/operations.js"></script>
+    <script src="assets/js/operations.js"></script>
+
+
   </body>
 </html>
