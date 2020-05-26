@@ -5528,8 +5528,8 @@ The technologist.
 								</div>
 								
 
-								<div class="row">
-								<div class="col-2 d-lg-none"> 
+								<div class="row">
+									<div class="col-2 d-lg-none"> 
 									</div>
 												
 									<div class=" col-6 col-lg-5 " style="margin-bottom:65px; " > 
@@ -5579,16 +5579,24 @@ The technologist.
 												 
 										</div> 
 						
-						<div class="col-2 d-lg-none"> 
+									<div class="col-4 d-lg-none"> 
+									</div>
+									
+									<div class="col-2 d-lg-none"> 
 									</div>
 										 
-										<div style="margin-bottom:65px; " class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
-									
-											AI powered for data science
-										
-										</div>
+									<div style="margin-bottom:65px; " class="lh-45 fat f-tech-heading col-8 col-lg-6 col-md-12 col-sm-12 text-black bg-white spacer f-slight text-center text-lg-left " >
+								
+										AI powered for data science
 									
 									</div>
+									
+									
+									<div class="col-2 d-lg-none"> 
+									</div>
+									
+									
+								</div>
 
  
 								
@@ -5664,25 +5672,27 @@ The technologist.
 						?>
 	 		
 				 
+				 
 								<div class="row">
 								
 												
-									<div class=" col-6 col-lg-2 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									<div class=" col-3 col-lg-2 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
 									 
 									</div>
 											
 										 
-									<?php echo GetTechArchitectureReadMoreButton(2, 'red', 'blue'); ?>
+									<?php echo GetTechArchitectureReadMoreButton(1, 'red', 'blue'); ?>
 									
 									
 									
 									
-									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									<div class=" col-3 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
 									 
 									
 									</div>
 									
 								</div>
+
 
 								
 							</div>
@@ -7620,7 +7630,7 @@ The technologist.
 ---> 
  
 					
-monu 
+
 
 	</div>
     <!-- Jquery and Js Plugins -->
