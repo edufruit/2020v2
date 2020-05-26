@@ -99,20 +99,7 @@
 		{
 			
 			
-			return '
-			
-					<!-----------------------------------------------------------------> 
-					<!---------------------------read more ----------------------------> 
-					<!----------------------------------------------------------------->
- 
- 
-					<div class="col-6 col-lg-10">			
-				
-		
-						<div class="row">		
-							<div id="tech-readmore'.$Serial.'"   data-more="read more" class="tech-readmore f-18 col-12 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight " >
-						
-								<div class="row">
+			$ButtonText = 	'<div class="row">
 
 									<div class="col-4">
 									
@@ -137,7 +124,23 @@
 									<div class="fat spacer f-slight col-8">read more</div>
 								
 								
-								</div> 
+								</div> ';
+			
+			
+			return '
+			
+					<!-----------------------------------------------------------------> 
+					<!---------------------------read more ----------------------------> 
+					<!----------------------------------------------------------------->
+ 
+ 
+					<div class="col-6 col-lg-10">			
+				
+		
+						<div class="row">		
+							<div id="tech-readmore'.$Serial.'"   data-more="'.htmlspecialchars($ButtonText).'" class="tech-readmore f-18 col-12 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight " >
+						
+							'.$ButtonText.'
 							
 							</div>
 								</div>
