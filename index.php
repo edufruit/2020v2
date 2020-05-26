@@ -5500,7 +5500,7 @@ The technologist.
 									</div>
 											
 										 
-									<?php echo GetTechArchitectureReadMoreButton(1, 'red', 'blue'); ?>
+									<?php echo GetTechArchitectureReadMoreButton(2, 'red', 'blue'); ?>
 									
 									
 									
