@@ -92,6 +92,69 @@
 			
 		}
 		
+
+
+		
+		function GetTechArchitectureReadMoreButton($Serial, $Color1, $Color2)
+		{
+			
+			
+			return '
+			
+					<!-----------------------------------------------------------------> 
+					<!---------------------------read more ----------------------------> 
+					<!----------------------------------------------------------------->
+ 
+ 
+					<div class="col-6 col-lg-10">			
+				
+		
+						<div class="row">		
+							<div id="tech-readmore'.$Serial.'"   data-more="read more" class="tech-readmore f-18 col-12 col-lg-6 col-md-6 col-sm-6 text-center text-black spacer f-slight " >
+						
+								<div class="row">
+
+									<div class="col-4">
+									
+									
+										<div class="row" style=" ">
+
+											<div class="col-6" style="background-color: '.$Color1.'; height: 33px;">
+
+											</div>
+
+										 
+											<div class="col-6" style="background-color: '.$Color2.'; height: 33px;">
+
+											</div>
+
+										  
+										</div>
+											
+									</div> 
+							
+							
+									<div class="fat spacer f-slight col-8">read more</div>
+								
+								
+								</div> 
+							
+							</div>
+								</div>
+							</div>
+									
+	 
+					<!-----------------------------------------------------------------> 
+					<!-----------------------read more ends ---------------------------> 
+					<!-----------------------------------------------------------------> 
+									
+				';
+					
+
+					
+			}
+			
+			
 			
 			
 			
@@ -4773,7 +4836,7 @@ The technologist.
 										
 										?>
 		 
-										Student attrition research to student retention & engagement
+										Student attrition research to student retention<?php // & engagement ?>
 									
 									</div>
 									
@@ -5221,7 +5284,7 @@ The technologist.
 				<?php
 				
 						
-						echo $Separator122;
+						// echo $Separator122;
 				
 				
 				?>
@@ -5270,13 +5333,18 @@ The technologist.
 								
 
 								<div class="row">
+									<div class="col-12" style="margin-top:122px; "></div>
+								</div>
+
+								
+								<div class="row" >  
 								 
-													 
+													  
 
 									<div class="col-2 d-lg-none" > 
 									</div>
 									
-									<div class="col-6 col-lg-5" style="margin-top:65px; "  > 
+									<div class="col-6 col-lg-5" style="margin-bottom:65px; "> 
 									
 									
 										<div class="row height-cube-row"> 
@@ -5329,7 +5397,7 @@ The technologist.
 									<div class="col-2 d-lg-none" > 
 									</div>
 									
-									<div style="margin-top:65px; "  class="lh-45 fat f-tech-heading col-12 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left">
+									<div style="margin-bottom:65px; " class="lh-45 fat f-tech-heading col-12 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left">
 								
 										Cognitive bot answers all your queries
 									
@@ -5344,7 +5412,7 @@ The technologist.
 															
 									</div>
 								 
-									<div style="margin-top:65px; "  class="f-18 lh-45 col-8 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left" >
+									<div  class="f-18 lh-45 col-8 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left" >
 									
 										Empower your team and customers with our powerful cognitive bot, getting accurate answers, solving problems at pace and building resilience. Predictive analytics, 
 									
@@ -5387,6 +5455,13 @@ The technologist.
 				 
 				 
 				 
+
+
+						<?php
+								 
+								 
+							/* 	
+								 
 								<div class="row" >
 								
 												
@@ -5408,6 +5483,32 @@ The technologist.
 									
 								</div>
 
+							*/
+								 
+								 
+						?>
+	 		
+				 
+								<div class="row">
+								
+												
+									<div class=" col-3 col-lg-2 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+										 
+									<?php echo GetTechArchitectureReadMoreButton(1, 'red', 'blue'); ?>
+									
+									
+									
+									
+									<div class=" col-3 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
 								
 							</div>
 	
@@ -5422,11 +5523,16 @@ The technologist.
 								  
 							<div class="col-12 col-lg-5 col-md-1 col-sm-1 ">
 								
+								<div class="row">
+									<div class="col-12" style="margin-top:122px; "></div>
+								</div>
+								
 
 								<div class="row">
-								
+								<div class="col-2 d-lg-none"> 
+									</div>
 												
-									<div class=" col-6 col-lg-5 " > 
+									<div class=" col-6 col-lg-5 " style="margin-bottom:65px; " > 
 											
 											<div class="row height-cube-row"> 
 										
@@ -5473,9 +5579,10 @@ The technologist.
 												 
 										</div> 
 						
-						
+						<div class="col-2 d-lg-none"> 
+									</div>
 										 
-										<div class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+										<div style="margin-bottom:65px; " class="lh-45 fat f-tech-heading col-3 col-lg-6 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
 									
 											AI powered for data science
 										
@@ -5483,14 +5590,16 @@ The technologist.
 									
 									</div>
 
-
+ 
+								
 								<div class="row">
 								
-									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
+									<div class=" col-2 col-lg-2 col-md-1 col-sm-1 ">
 															
-									</div>
-								 
-									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
+									</div> 
+									
+									
+									<div class="f-18 lh-45 col-8 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left" >
 										Converging your big data for creating machine learning models that can predict brand recognition, number of prospective students and... 
 									
 										<div class="invisible" style="display:none;" id="tech-readmore2text">
@@ -5524,9 +5633,9 @@ The technologist.
 								<!----------------------------------------------------------------->
 								<!-----------------------------------------------------------------> 
 				 
+					<?php 
 				 
-				 
-				 
+						/*
 								<div class="row">
 								
 												
@@ -5540,6 +5649,33 @@ The technologist.
 										read more
 									
 									</div>
+									
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
+								
+								  */
+								
+						
+						?>
+	 		
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-2 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+										 
+									<?php echo GetTechArchitectureReadMoreButton(2, 'red', 'blue'); ?>
+									
+									
+									
 									
 									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
 									 
@@ -5569,7 +5705,7 @@ The technologist.
 				<?php
 				
 						
-						echo $Separator122;
+						// echo $Separator122;
 				
 				
 				?>
@@ -5594,13 +5730,19 @@ The technologist.
 						 	 
 									 
 							<div class=" col-lg-5 col-md-1 col-sm-1 ">
-								
+							
+							
+							
+								<div class="row">
+									<div class="col-12" style="margin-top:122px; "></div>
+								</div>
+																					 
+
 
 								<div class="row">
 								 
-													 
 
-									<div class="col-2 col-lg-5" > 
+									<div class="col-6 col-lg-5" style="margin-bottom:65px; " > 
 									
 									
 										<div class="row height-cube-row"> 
@@ -5658,6 +5800,10 @@ The technologist.
 
 
 								<div class="row">
+									<div class="col-12" style="margin-top:65px; "></div>
+								</div>
+								
+								<div class="row">
 								
 									<div class="d-none d-sm-block col-lg-2 col-md-1 col-sm-1 ">
 															
@@ -5665,12 +5811,12 @@ The technologist.
 								 
 									<div class="f-18 lh-45 col-3 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
 									
-								   Our framework a legacy of 14 years, stood tall through treacherous waves of load, evolving technologies, changing business dynamics and...
+								   Our framework a legacy of 14 years, stood tall through treacherous waves of load, evolving technologies, 
 									
 									
 										<div class="invisible" style="display:none;" id="tech-readmore3text">
 									
-											 a trail of logical & pragmatic technical upgrades and advancements.   
+											changing business dynamics and a trail of logical & pragmatic technical upgrades and advancements.   
 								
 										</div>
 									
@@ -5703,8 +5849,11 @@ The technologist.
 								<!----------------------------------------------------------------->
 								<!-----------------------------------------------------------------> 
 				 
-				 
-				 
+			
+
+									<?php
+										 
+								/* 
 				 
 								<div class="row">
 								
@@ -5720,6 +5869,7 @@ The technologist.
 									
 									</div>
 									
+									
 									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
 									 
 									
@@ -5727,6 +5877,37 @@ The technologist.
 									
 								</div>
 
+								
+								  */
+								
+						
+									?>
+	 		
+				 
+								<div class="row">
+								
+												
+									<div class=" col-6 col-lg-2 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									</div>
+											
+										 
+									<?php echo GetTechArchitectureReadMoreButton(3, 'red', 'blue'); ?>
+									
+									
+									
+									
+									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									 
+									
+									</div>
+									
+								</div>
+
+								
+								
+								
+								
 								
 							</div>
 	
@@ -5740,12 +5921,17 @@ The technologist.
 								  
 								  
 							<div class=" col-lg-5 col-md-1 col-sm-1 ">
-								
+
+
+								<div class="row">
+									<div class="col-12" style="margin-top:122px; "></div>
+								</div>
+																
 
 								<div class="row">
 								
 												
-									<div class=" col-3 col-lg-5" > 
+									<div class=" col-3 col-lg-5"  style="margin-bottom:65px; "> 
 											
 											<div class="row height-cube-row"> 
 										
@@ -5796,12 +5982,18 @@ The technologist.
 										 
 										<div class="lh-45 fat f-tech-heading col-3 col-lg-7 col-md-12 col-sm-12  text-black bg-white spacer f-slight " >
 									
-											Blockchain: trust & reliability for financial models
+											<?php // Blockchain: trust & reliability for financial models ?>
+											
+											Blockchain for financial models
 										
 										</div>
 									
 									</div>
 
+								<div class="row">
+									<div class="col-12" style="margin-top:65px; "></div>
+								</div>
+								
 
 								<div class="row">
 								
@@ -5851,16 +6043,15 @@ The technologist.
 								<div class="row">
 								
 												
-									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
+									<div class=" col-6 col-lg-2 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
 									 
 									</div>
 											
-											
-									<div id="tech-readmore2" data-more="read more" class="tech-readmore f-18 col-6 col-lg-4 col-md-6 col-sm-6 text-center text-white bg-blue spacer f-slight p-2 " >
+										 
+									<?php echo GetTechArchitectureReadMoreButton(4, 'red', 'blue'); ?>
 									
-										read more
 									
-									</div>
+									
 									
 									<div class=" col-6 col-lg-3 col-md-6 col-sm-6 text-center text-black bg-white spacer f-slight " >
 									 
@@ -5902,9 +6093,9 @@ The technologist.
 				<?php
 				
 						
-						echo $Separator122;
+						// echo $Separator122;
 				
-				
+						/*
 				?>
 
  
@@ -5962,9 +6153,9 @@ The technologist.
 
 
 				<?php
-				
+						*/
 						
-						echo $Separator122;
+						// echo $Separator122;
 				
 				
 				?>
@@ -6032,6 +6223,10 @@ The technologist.
 
 
 
+								<div class="row">
+									<div class="col-12" style="margin-top:122px; "></div>
+								</div>
+								
 
 
 						<div class="row">
