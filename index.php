@@ -5411,7 +5411,7 @@ The technologist.
 									<div class="col-2 col-lg-2 col-md-1 col-sm-1 ">
 															
 									</div>
-								 golu
+								
 									<div  class="f-18 lh-45 col-8 col-lg-10 col-md-12 col-sm-12  text-black bg-white spacer f-slight text-center text-lg-left" >
 									
 										Empower your team and customers with our powerful cognitive bot, getting accurate answers, solving problems at pace and building resilience. Predictive analytics, 
