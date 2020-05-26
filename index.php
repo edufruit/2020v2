@@ -759,7 +759,7 @@
 					
 						<div id="notonly" class="spacer text-center f-slight f-20 col-10">
 							
-							an edtech platform to build a "Virtual Institution",  
+							Build a "Virtual Institution",  
 						</div>
 					
 					
@@ -805,7 +805,7 @@
 					
 						<div class="f-slight col-10   text-center spacer f-20">
 							
-							with the help of our thoroughly researched  <span class="fat">RGB</span> model for your institution
+							with our ethnographic research based  <span class="fat">RGB</span> model. 
 							
 						</div>
 					
